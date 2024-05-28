@@ -1,0 +1,49 @@
+15 array
+iK3ZWeqhF -52.817175 490
+WCEPyYngFb -107.296862 278
+62yBM 174.481176 495
+WXaSCrUZoL9g6 -76.120690 256
+ubb -8.810409 341
+bPIa95yR 85.223932 452
+nBUbHoW 113.376944 101
+C -109.989127 416
+9F -17.242821 149
+JowoRoWD9s -87.785842 103
+8bA27 -74.362701 126
+J8Pgl -43.712177 436
+OU4s -85.005238 491
+hVv6UTG80BG 96.082000 253
+27QmtsL5F -91.544761 226
+updateEarliestBlock -6.973398
+removeEarliestBlock
+removeEarliestBlock
+addBlock pVZzA -84.995477 388
+removeBlock iK3ZWeqhF
+removeEarliestBlock
+removeBlock OU4s
+removeBlock fCQGgXkH2z
+getEarliestBlock
+removeBlock C
+addBlock T 5.062323 55
+updateEarliestBlock -1.001354
+removeEarliestBlock
+removeEarliestBlock
+removeBlock 62yBM
+removeEarliestBlock
+updateBlock 9F 64.916553
+addBlock C 34.558368 75
+getBlock 27QmtsL5F
+updateBlock C -42.551404
+getEarliestBlock
+updateBlock WXaSCrUZoL9g6 -41.611158
+removeEarliestBlock
+updateBlock bPIa95yR 125.005005
+getBlock 9F
+updateEarliestBlock 124.829979
+updateBlock ubb -75.767414
+removeEarliestBlock
+addBlock XJ -131.767750 240
+addBlock 9dE4xKJm9GAF1 133.291008 438
+getEarliestBlock
+getEarliestBlock
+removeEarliestBlock
