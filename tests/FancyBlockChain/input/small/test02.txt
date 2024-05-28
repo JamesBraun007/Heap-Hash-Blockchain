@@ -1,0 +1,59 @@
+16 array
+8sUMuCzu -86.381863 222
+zee7uMDhqnYNX 57.698885 493
+6I4SEQwqlI -39.856094 444
+ntmpxf1 36.782973 462
+rfWCfPKPv9oy -127.829505 205
+0tcul -12.360893 206
+uY3L6 -55.336186 391
+7tpvgINLZM 28.066508 264
+f -7.311270 383
+pobZpzerJ -143.049861 477
+4eUeb 85.444290 328
+OasWYwFE4 -23.612570 102
+3jg -170.671527 384
+GXYueG9QllXj -165.072127 158
+j -89.055558 137
+14utgTG27M -113.616953 106
+getEarliestBlock
+updateBlock rfWCfPKPv9oy 92.807197
+removeEarliestBlock
+removeBlock f
+updateEarliestBlock 27.803408
+removeEarliestBlock
+removeBlock j
+updateEarliestBlock 69.003169
+removeBlock 0tcul
+addBlock tBIkdT4 -27.810508 52
+removeBlock rfWCfPKPv9oy
+updateEarliestBlock 31.784693
+removeBlock CZB
+removeEarliestBlock
+removeEarliestBlock
+updateEarliestBlock -208.016719
+getBlock z2vkqFbYP8AK
+addBlock SwLiLiiq2rz -45.342757 130
+removeEarliestBlock
+addBlock f 37.588444 240
+addBlock al 74.804848 489
+removeEarliestBlock
+removeEarliestBlock
+removeBlock 14utgTG27M
+updateBlock al -190.290863
+removeBlock 3jg
+getEarliestBlock
+removeBlock SwLiLiiq2rz
+removeBlock GXYueG9QllXj
+removeEarliestBlock
+updateBlock uY3L6 233.014207
+getEarliestBlock
+removeBlock d7eWGP5xkGXY5
+addBlock t -161.433601 432
+removeBlock al
+getEarliestBlock
+removeBlock 7tpvgINLZM
+getBlock 4eUeb
+updateEarliestBlock 93.857448
+updateBlock ntmpxf1 -92.669100
+removeEarliestBlock
+addBlock q 40.184526 31
