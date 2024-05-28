@@ -1,0 +1,19 @@
+false
+false
+bC 157.814135 110
+bC 157.814135 110
+true
+q6UGn0MB1 -41.020752 145
+true
+p49 12.756686 212
+p49 12.756686 212
+B -177.769234 387
+FEhbtyvAY -157.033298 237
+null
+NGcymwgnKR6B 84.616065 254
+true
+true
+Ah15YcmpYLAk -51.984645 112
+null
+true
+true
