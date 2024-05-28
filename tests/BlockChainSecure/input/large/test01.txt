@@ -1,0 +1,4480 @@
+9906 empty
+addBlock OSbz43BpFT9 -15.215806 38654
+removeEarliestBlock
+updateEarliestBlock 94.403382
+addBlock G1krZJVgv 93.448076 65740
+addBlock 44Z 119.459494 63517
+updateEarliestBlock -111.149457
+removeBlock OSbz43BpFT9
+removeBlock 44Z
+addBlock 9zLkuDT 224.019598 38506
+addBlock LOdhluSkFS6A 53.622142 54266
+getBlock G1krZJVgv
+addBlock OSbz43BpFT9 -58.572467 24554
+addBlock Zid6gUQt 179.991601 39844
+getEarliestBlock
+getBlock G1krZJVgv
+updateBlock LOdhluSkFS6A -12.975680
+getBlock Zid6gUQt
+addBlock Jc4 -91.685714 40991
+addBlock e3bSwAng3d 94.119458 90860
+addBlock SdZ -55.424146 85291
+addBlock TP9CAki3LoK3R -47.233463 65572
+addBlock Cx9KRjq3dqwP -0.618862 99861
+getBlock G1krZJVgv
+updateBlock SdZ 59.870089
+addBlock aNoSf -143.931406 25758
+getBlock Jc4
+addBlock Z -99.991947 80872
+addBlock WZvziJCUb 26.290489 74787
+removeEarliestBlock
+addBlock eSMzwad9HE3u -147.144496 8961
+getEarliestBlock
+updateBlock eSMzwad9HE3u 31.466839
+addBlock 44Z -141.840919 90312
+getBlock SdZ
+updateBlock TP9CAki3LoK3R 28.320247
+removeBlock eSMzwad9HE3u
+addBlock Hg 42.966761 49951
+addBlock zDKyq9azumVmx -110.004431 49474
+getEarliestBlock
+updateEarliestBlock 38.528718
+getBlock e3bSwAng3d
+updateBlock Hg -77.856614
+updateBlock Hg -129.214860
+addBlock 82c2MXFm2g -129.487714 79507
+updateEarliestBlock -60.972560
+updateEarliestBlock 8.263753
+removeBlock LOdhluSkFS6A
+addBlock rDBozjAldX2a 218.903442 51499
+removeBlock OSbz43BpFT9
+getEarliestBlock
+updateEarliestBlock -100.785493
+getBlock SdZ
+addBlock DnWgx1dt -60.862095 7033
+addBlock UZvL 70.240766 33947
+removeEarliestBlock
+addBlock yaw 5.905052 62490
+getBlock WZvziJCUb
+getEarliestBlock
+updateEarliestBlock -0.603897
+addBlock LOdhluSkFS6A 147.997857 98945
+addBlock Tfk6H6q5 -205.290579 6269
+addBlock b6Fhw 23.538112 47459
+addBlock Qu -8.299522 43736
+updateEarliestBlock 53.921827
+updateBlock LOdhluSkFS6A 3.091174
+removeBlock Hg
+addBlock Hg 177.662125 77535
+addBlock eSMzwad9HE3u -219.131054 3873
+addBlock cfDo -69.241620 86480
+addBlock 2yTzouQsxu4 -194.530991 71091
+addBlock cGjvb7yIotqa5 52.848924 79288
+getBlock ywXvg19Um
+addBlock MFug5cdg 131.931299 2268
+updateBlock 9zLkuDT -74.450261
+getEarliestBlock
+addBlock s494sa 18.529216 58432
+addBlock o 50.964731 38766
+removeBlock rDBozjAldX2a
+removeBlock Jc4
+updateBlock 9zLkuDT 4.971284
+addBlock jX6I11cUEUXKV 108.122278 3914
+getBlock 2yTzouQsxu4
+getEarliestBlock
+addBlock xDMNjjDs 174.155923 80410
+addBlock ZMg9X8eizTL 63.069159 91767
+removeEarliestBlock
+updateEarliestBlock 68.294572
+updateBlock G1krZJVgv 89.038599
+getBlock 82c2MXFm2g
+removeEarliestBlock
+addBlock GbUD 140.121404 98786
+getBlock zDKyq9azumVmx
+addBlock np692 -192.281049 55266
+getEarliestBlock
+addBlock azIlMBX -0.630120 62886
+addBlock S 283.855790 35813
+addBlock Jc4 77.174857 9491
+removeEarliestBlock
+getBlock ZMg9X8eizTL
+getEarliestBlock
+getBlock Zid6gUQt
+removeEarliestBlock
+addBlock VBAclGXKa 47.659628 57637
+removeEarliestBlock
+addBlock e7T3yb -218.747426 2979
+addBlock O0Q32761C 130.748460 62960
+getBlock xDMNjjDs
+addBlock BJ -77.350320 53156
+addBlock kogeFYhx0Pmu -52.910119 43757
+removeBlock O0Q32761C
+updateEarliestBlock 143.540691
+removeEarliestBlock
+updateBlock eSMzwad9HE3u 130.454407
+removeBlock np692
+addBlock oz4Ny -21.101435 37507
+removeBlock eSMzwad9HE3u
+addBlock EZj3 67.620379 411
+addBlock CuP -51.920141 95563
+removeEarliestBlock
+updateEarliestBlock 155.009438
+addBlock O0Q32761C -114.159679 338
+addBlock TUEuUzb 36.483659 75530
+addBlock Vkk9YXOLHI -1.198931 59925
+removeBlock BJ
+addBlock 2 -71.648187 9989
+updateBlock 2yTzouQsxu4 -121.516020
+getEarliestBlock
+updateEarliestBlock -81.245229
+updateEarliestBlock -12.204239
+addBlock eSMzwad9HE3u 96.135594 94231
+addBlock D 116.393798 54664
+getEarliestBlock
+addBlock BY 6.712536 4042
+getEarliestBlock
+addBlock xoiY054dsE 1.681255 86710
+addBlock p0aPyp 26.193568 31141
+updateBlock cfDo -130.999191
+addBlock Q3zkxZ555 -90.465646 77415
+updateEarliestBlock -195.713811
+addBlock iTq -31.651244 76940
+updateEarliestBlock 78.725989
+addBlock sF1IXkkXeM1S 4.345097 46625
+addBlock jiJIpFrpJBC8d 54.890709 41869
+updateBlock e3bSwAng3d 213.084080
+addBlock Sbx0 -50.249345 2607
+updateBlock yaw -112.417927
+getEarliestBlock
+updateBlock LOdhluSkFS6A 7.211225
+updateBlock Vkk9YXOLHI -17.980999
+addBlock qVn5R -6.302360 36465
+getEarliestBlock
+addBlock 2fQzI7AJlc -169.787924 74104
+getEarliestBlock
+addBlock np692 136.146897 7810
+addBlock leanErL -128.314119 63522
+addBlock AML4GuWefgb -87.994256 66081
+getBlock o
+updateEarliestBlock -3.507563
+addBlock LxbkmTE 7.641141 93362
+updateBlock Qu -27.443142
+updateEarliestBlock -204.409650
+addBlock fg -160.464894 65366
+updateBlock kogeFYhx0Pmu 30.913288
+removeEarliestBlock
+addBlock GZInp96G -21.236679 77319
+updateEarliestBlock -66.799693
+updateBlock Q3zkxZ555 147.839373
+addBlock d6kj2yp6Sb -162.281357 4839
+addBlock E6O7t4lW 96.867908 73886
+removeBlock Zid6gUQt
+getBlock xoiY054dsE
+addBlock BJ 98.483935 90652
+addBlock 8m 77.705764 1177
+updateBlock iTq -14.619303
+addBlock Mqq -102.881107 30142
+addBlock t1RX0hmY2tNlF 94.751083 18948
+addBlock YVXN2tIIMUn 59.346027 69080
+getEarliestBlock
+addBlock nPjinKxk -51.159173 52785
+updateBlock TUEuUzb 217.538734
+updateBlock fg -36.133629
+removeEarliestBlock
+updateEarliestBlock 43.603976
+addBlock ksX 255.941315 24823
+addBlock Zhaabdlw 17.227688 59031
+getEarliestBlock
+removeBlock xDMNjjDs
+addBlock xQYzImx -48.635118 56900
+removeBlock jX6I11cUEUXKV
+addBlock oIUSG 97.085737 61674
+addBlock aERcoqRnyt -56.356291 88336
+addBlock jX6I11cUEUXKV 131.378304 45597
+addBlock 2kao9srDhJVK2 -1.416589 35994
+addBlock R -70.392945 78547
+addBlock booNlNOO0 98.385827 19863
+addBlock 1XqcAO 150.270009 57612
+addBlock E98WFqo 9.876802 98673
+addBlock rDBozjAldX2a -3.898502 17500
+getBlock E6O7t4lW
+removeEarliestBlock
+removeEarliestBlock
+addBlock 2HoHf4bxI 84.981248 95154
+addBlock 4yhqC -28.615159 13378
+addBlock Zid6gUQt -44.103311 54184
+addBlock OJRv89 -52.298853 97725
+addBlock vtifoL -128.699554 54133
+addBlock wwE4ZiHxCK 2.312610 89627
+updateBlock GbUD -129.836892
+updateBlock wwE4ZiHxCK -14.525110
+addBlock M1AGp -51.567839 90371
+getBlock BVpWxjw
+addBlock ZtF2z 29.672970 57400
+removeEarliestBlock
+removeBlock E98WFqo
+updateEarliestBlock -211.353469
+addBlock sRYbTpLH7 25.602635 2265
+addBlock R8KI 61.234425 22572
+getEarliestBlock
+removeBlock np692
+addBlock vTQzSKhVr 13.936854 11662
+removeBlock Qu
+removeBlock Jc4
+removeEarliestBlock
+updateBlock Tfk6H6q5 -50.506559
+removeBlock OJRv89
+updateEarliestBlock 69.646497
+addBlock rAK -16.335685 37929
+addBlock xOswGWCM89 2.578184 96091
+addBlock OSbz43BpFT9 -137.995114 40701
+addBlock sWQv 10.715997 51687
+addBlock TFgu -8.823861 56229
+updateEarliestBlock 124.238297
+addBlock jjtv2GY6 58.436946 8983
+addBlock N -35.030705 9394
+updateEarliestBlock -150.705769
+addBlock YqQgCl 88.618966 45040
+addBlock 4S1TNkR5uEY 40.471971 33607
+addBlock Wy 39.647006 84732
+getEarliestBlock
+addBlock yZ4vxqyYre5 -101.367824 30003
+getBlock e7T3yb
+getBlock oIUSG
+removeBlock TFgu
+updateEarliestBlock -65.283219
+addBlock CTGDQ6yr19BZZ 57.428483 25389
+getBlock ZMg9X8eizTL
+getEarliestBlock
+updateEarliestBlock -188.775882
+updateBlock sWQv -43.149735
+addBlock OCcT4E9S -169.732452 95897
+addBlock Q5 -198.111058 5141
+getBlock d6kj2yp6Sb
+removeEarliestBlock
+updateBlock S 157.566812
+updateBlock 82c2MXFm2g 38.385336
+addBlock GUgC 50.361741 11749
+getBlock MFug5cdg
+addBlock Ti 11.910239 9881
+updateEarliestBlock 15.648064
+addBlock zzN5UXgOx3yB -3.586878 33696
+addBlock YCsgWi9Hcg -4.479414 13084
+removeEarliestBlock
+removeBlock 2kao9srDhJVK2
+addBlock 5 21.065143 1748
+getBlock l
+removeEarliestBlock
+updateEarliestBlock -77.666081
+removeEarliestBlock
+removeBlock YCsgWi9Hcg
+addBlock mJL2 64.672863 21239
+getBlock ZMg9X8eizTL
+addBlock owa 106.714489 60625
+removeEarliestBlock
+addBlock BeEeLFowx19c 51.779394 9047
+updateBlock VBAclGXKa -146.857013
+addBlock KZyZdiByYDZWn -41.633103 16627
+getBlock p0aPyp
+addBlock MaoMx -21.117427 27455
+removeEarliestBlock
+addBlock oh9D -123.355402 88357
+addBlock Jsh -26.878159 59932
+addBlock e0jwoFbouJdEV -19.797783 10992
+addBlock bR -8.112680 20331
+addBlock R6NfbY9h 94.126525 85234
+getEarliestBlock
+addBlock xIOie -97.795343 41025
+updateEarliestBlock -60.835917
+addBlock xZVD1ZHrUbT 74.082280 57815
+addBlock vz8ck7h9 117.559133 50669
+addBlock 2kao9srDhJVK2 76.749631 91232
+addBlock 9oyJmWTd7F3A 87.811764 90130
+addBlock IpVd -154.208476 3870
+getBlock xQYzImx
+getEarliestBlock
+getEarliestBlock
+removeBlock zoR4bIm
+addBlock np692 -33.769735 76211
+removeBlock b6Fhw
+updateEarliestBlock -39.336138
+removeEarliestBlock
+addBlock UKugpoiqEZ5m -98.778490 95561
+updateBlock 2kao9srDhJVK2 94.867007
+removeEarliestBlock
+getBlock p0aPyp
+addBlock 2zJyv4RoPW 4.009938 25339
+removeBlock OSbz43BpFT9
+getEarliestBlock
+addBlock 5sm4KNlf85i -46.842246 65321
+removeEarliestBlock
+getEarliestBlock
+getEarliestBlock
+getBlock GUgC
+getEarliestBlock
+addBlock qM7J4csK76Fg 188.771403 52304
+addBlock MwssmTAH 3.965121 24749
+addBlock P -120.765547 76149
+getBlock oIUSG
+addBlock 3rBvPA -45.104823 4327
+removeBlock 2yTzouQsxu4
+getEarliestBlock
+addBlock Hx -232.418241 25499
+addBlock snaFXYvCU 46.126919 46003
+addBlock LYgo5uf 95.022238 90786
+updateBlock Q3zkxZ555 54.632561
+addBlock cLKw -130.934756 9100
+getBlock THE
+updateBlock mJL2 189.231036
+addBlock u0rlRgMq5 -70.892723 23196
+addBlock ZaPFv9hSjcKg 66.337414 9318
+getBlock M9ymwyQ
+removeBlock M1AGp
+addBlock ayAWK9wl 22.874606 15666
+removeBlock E6O7t4lW
+addBlock Iyp4 -181.434771 92570
+getEarliestBlock
+removeEarliestBlock
+getBlock e7T3yb
+removeBlock LOdhluSkFS6A
+addBlock ySa2tJ 58.357898 6563
+getEarliestBlock
+getEarliestBlock
+addBlock MLS1Bf -108.142330 42535
+addBlock FMzo -156.566076 5941
+removeBlock GUgC
+getEarliestBlock
+getEarliestBlock
+addBlock qOkiWIdi7Bn5 -34.818196 12800
+updateBlock DnWgx1dt -194.286511
+updateEarliestBlock -24.432825
+updateBlock Zhaabdlw -128.541226
+addBlock FP 2.679886 46239
+updateEarliestBlock -157.295353
+removeBlock cGjvb7yIotqa5
+addBlock Pm9ngWGemp -68.482672 56325
+addBlock 0Gs5Ae7 -97.909347 65697
+removeEarliestBlock
+addBlock lEBg -92.671551 48219
+getEarliestBlock
+addBlock gPDC5r -13.973738 151
+addBlock 6MJgkOHrJ6 -50.767483 8964
+getBlock 2
+removeBlock Hx
+addBlock RgTEgJ -52.154451 19543
+removeBlock xOswGWCM89
+addBlock GUgC 193.708585 71587
+addBlock YCsgWi9Hcg 93.077824 73013
+addBlock To 230.015063 4619
+removeBlock owa
+addBlock K 97.640653 8062
+getEarliestBlock
+addBlock HlmOGcNOQA 41.153035 8032
+addBlock va 25.950364 65399
+addBlock zkSpJ 24.151854 87282
+addBlock ccmMY -106.597570 69904
+updateBlock IpVd -71.677419
+updateBlock e3bSwAng3d -56.052494
+addBlock xOswGWCM89 -246.547186 13836
+removeBlock TP9CAki3LoK3R
+updateEarliestBlock 55.262815
+addBlock FQ5D25lVg -8.860305 60458
+addBlock r -19.640472 27375
+removeEarliestBlock
+addBlock mjJ8b -23.390341 30011
+addBlock CKrnFp8oD 102.582994 15032
+addBlock Sum6KAyPAjL -99.402047 27428
+updateEarliestBlock 157.487625
+addBlock uy9at 48.485028 31594
+updateBlock BY 115.032231
+addBlock EqHRnT -56.991338 84405
+addBlock 74b2V -122.343751 74994
+addBlock vY6zQRTvYmEq -102.983136 93633
+addBlock z8QDSo1d 188.719797 3588
+removeEarliestBlock
+addBlock quJuWB7qoXQ5M 147.000307 41535
+getBlock va
+addBlock owa -9.415743 84835
+addBlock NHNEa8Ol 63.069711 53985
+removeBlock nPjinKxk
+addBlock ZGo -115.255824 68301
+updateEarliestBlock -116.970703
+addBlock x6fqEB9j50 -80.446696 7231
+addBlock yPE58I3nql9x -4.218380 44121
+getBlock jX6I11cUEUXKV
+removeEarliestBlock
+addBlock 40yxJeqpGs -7.903989 43311
+addBlock ZCXVDl0xJ 45.128450 65617
+addBlock 46X -6.593348 91697
+updateBlock qM7J4csK76Fg 96.378402
+addBlock L 82.744227 18704
+removeBlock snaFXYvCU
+addBlock Qu 131.337160 73313
+getEarliestBlock
+updateEarliestBlock 45.899997
+addBlock OA5p7iZ 38.447832 19484
+updateBlock rDBozjAldX2a 65.345591
+updateEarliestBlock 242.216118
+getBlock COXWNtmYF
+addBlock b6Fhw 34.635382 29789
+addBlock 2yTzouQsxu4 46.729216 48292
+addBlock t6RMi9FN -63.067274 36061
+removeBlock rAK
+getBlock jiJIpFrpJBC8d
+getEarliestBlock
+addBlock rzGHfFtAjN -229.518578 37669
+addBlock E9ezHNE1FB7 67.276471 47449
+addBlock d3DyYp0f -52.688712 61351
+updateEarliestBlock -53.403397
+getBlock cLKw
+updateEarliestBlock 74.136980
+addBlock RLJVS 46.108017 72741
+addBlock nPjinKxk 86.725384 54724
+addBlock PhMmEjmdzav -115.523914 96089
+updateBlock MLS1Bf -6.710554
+getEarliestBlock
+removeEarliestBlock
+getBlock xOswGWCM89
+addBlock Kz 51.923218 13024
+updateBlock b6Fhw 29.493447
+addBlock qQ -47.959335 85151
+addBlock ZxrX -63.952173 70441
+addBlock kqO6 -139.829434 39262
+addBlock XANDSxu4r 100.269938 19717
+addBlock 2LjeJ 116.017256 45259
+addBlock TFgu -40.060653 28746
+addBlock 3jNCOf7iSIs0o 122.747978 36860
+getEarliestBlock
+getEarliestBlock
+updateBlock EqHRnT -124.000161
+removeBlock 0Gs5Ae7
+removeEarliestBlock
+getBlock vTQzSKhVr
+addBlock d -53.586172 62292
+updateEarliestBlock 123.550056
+addBlock m9 132.090591 65844
+addBlock Uno7PzR10 45.193821 99011
+removeEarliestBlock
+addBlock 49ep5gE2WzV 129.792393 28705
+addBlock Hx -102.027761 4667
+removeEarliestBlock
+addBlock eM -7.748699 94053
+updateBlock vz8ck7h9 -2.556135
+getBlock d3DyYp0f
+addBlock w -62.416258 55236
+addBlock 5mCOLA2X -61.424247 33860
+getEarliestBlock
+addBlock v3rfMpYbWzXp -79.666223 60356
+getEarliestBlock
+addBlock y -11.994596 3016
+updateBlock sWQv -121.601931
+addBlock tVnZRNU6Y 48.465152 1533
+updateBlock 5 128.882997
+removeBlock t6RMi9FN
+getBlock CKrnFp8oD
+addBlock l0X -19.389106 4326
+addBlock UDn4UM -4.008167 72886
+updateBlock ZtF2z 54.895963
+getBlock Zhaabdlw
+addBlock QkOMeOg -31.375129 9359
+addBlock inOEh 17.144833 93265
+addBlock C8 28.677483 98958
+getBlock GZInp96G
+updateEarliestBlock -4.744003
+getEarliestBlock
+getBlock yZ4vxqyYre5
+addBlock hHBqguutgMkF -66.452692 54385
+getEarliestBlock
+updateBlock x6fqEB9j50 -4.456228
+updateBlock GZInp96G 32.033291
+addBlock Qry4EatXGRDDl 200.789882 38988
+updateEarliestBlock -73.707820
+getBlock ZCXVDl0xJ
+addBlock Zc 12.217898 6874
+addBlock O1DueT 42.572401 4676
+addBlock t6RMi9FN 110.343936 1465
+getEarliestBlock
+addBlock YxXmXBu81Vrm -88.045017 57644
+removeBlock pUmuLAiXpP
+removeEarliestBlock
+addBlock sZ -318.353144 27143
+addBlock 96qTqSS730ES 21.010040 53922
+removeEarliestBlock
+removeBlock XANDSxu4r
+removeEarliestBlock
+removeBlock cKeMaLwt6VDwB
+removeEarliestBlock
+updateBlock 2LjeJ -76.888553
+addBlock Tneq 139.955310 21878
+removeBlock 96qTqSS730ES
+updateEarliestBlock 198.723411
+addBlock KzcCZ5TB 45.026928 50782
+updateBlock QkOMeOg -50.232983
+updateBlock yZ4vxqyYre5 3.147022
+addBlock kN9R5TTPv3o -242.221148 14579
+addBlock XQBTCDON4R8m6 49.862766 9346
+updateEarliestBlock -69.508102
+updateBlock MwssmTAH -3.221125
+addBlock eqRDqYCeY44v3 127.203042 67718
+updateEarliestBlock 64.925348
+updateBlock LYgo5uf 44.291181
+addBlock xDMNjjDs 227.606861 1696
+addBlock 3hKdjDgZOYC -4.458850 51859
+addBlock yO0jUCfgiI 113.291603 246
+getEarliestBlock
+removeEarliestBlock
+addBlock Tqhim 40.864063 73411
+addBlock byjsJ 135.257903 71165
+addBlock 6qM9EW 98.255891 25693
+removeEarliestBlock
+addBlock Z5zLscZEg4gM -119.202738 89274
+addBlock i8WKE -16.859912 4852
+addBlock Eq2jTE1o6ZEbk -104.764030 48049
+addBlock LhZ5rgdejdjY 160.138902 53298
+addBlock 5fWSpK 71.545636 12955
+addBlock ewNqU21 -23.569659 71916
+removeEarliestBlock
+getBlock 7oQc
+addBlock I 0.730917 75170
+removeEarliestBlock
+addBlock T94OPWZ67 -38.660933 6939
+addBlock QgytqJXTji 118.427534 91731
+addBlock TbpOaCfr 82.101228 974
+updateEarliestBlock 2.686287
+addBlock luIzn4pyg -23.349562 37707
+addBlock E98WFqo -145.018745 42380
+addBlock q 29.826667 3964
+getEarliestBlock
+getEarliestBlock
+addBlock u6LYVv7lLTg -14.059649 3816
+addBlock A3 8.538089 79509
+addBlock viBHkf 30.916561 6387
+updateEarliestBlock -136.121524
+addBlock 47bd 16.991392 76109
+addBlock 0Gs5Ae7 129.569697 29529
+addBlock er 155.660717 9909
+addBlock i5CrMP -52.324167 30115
+addBlock LMCTRQE 87.111651 70759
+addBlock ux4PVeZ -108.660917 9008
+getEarliestBlock
+getBlock 4yhqC
+updateBlock LMCTRQE -44.178230
+addBlock TP9CAki3LoK3R 18.789458 28409
+addBlock Jy -49.886119 98946
+addBlock rAK -113.720616 15863
+addBlock Cv3Woj 157.869623 98403
+getEarliestBlock
+addBlock QESIhqSV4dPy 99.524962 12975
+addBlock 9Xuf3JuP 35.506050 8982
+updateEarliestBlock 73.763633
+addBlock iXQrmUHt2U 30.113107 65459
+addBlock Of8LFdpoAm -25.707502 33239
+getEarliestBlock
+addBlock HJIaub71QD 28.482226 56797
+addBlock E6O7t4lW -14.559872 4925
+removeEarliestBlock
+updateEarliestBlock 3.510050
+removeEarliestBlock
+updateBlock 7qpvmNs 59.284167
+removeEarliestBlock
+addBlock s 80.921862 82559
+updateEarliestBlock 83.963403
+removeBlock VBAclGXKa
+addBlock PjVJtP8Uwup 95.752111 57849
+removeEarliestBlock
+addBlock dmvWmGEwPKpH -5.959283 76564
+updateBlock 2zJyv4RoPW -21.958054
+addBlock BblEaXIWXyV 9.190179 73284
+addBlock xyIc4v6IGW2 31.693712 79106
+addBlock 82hKzrXGmkN -75.011689 81087
+addBlock YX2PG 150.215376 56938
+removeEarliestBlock
+addBlock ZvgJ7 -34.326420 64774
+getBlock E9ezHNE1FB7
+updateEarliestBlock 0.038154
+updateEarliestBlock 59.649480
+addBlock Y21KBSd2xUrnk -43.617560 36572
+getEarliestBlock
+removeBlock oh9D
+getEarliestBlock
+addBlock wf 34.919462 30494
+addBlock bshO 39.702162 36236
+updateBlock CuP 113.671695
+addBlock qJ0J0E 16.725847 195
+addBlock gQaW2 73.469480 94213
+addBlock uNmSSGO2DqQY -67.078021 80459
+getBlock 82hKzrXGmkN
+getEarliestBlock
+addBlock 96qTqSS730ES 10.107087 33300
+addBlock WSiV -277.139702 51567
+updateEarliestBlock -69.091841
+addBlock i4noW -4.929693 45401
+addBlock Rnx 8.521356 68676
+updateEarliestBlock -122.932702
+getEarliestBlock
+addBlock Wh7Gu5XWEEJ 98.306040 22227
+addBlock XANDSxu4r 115.100328 4645
+updateEarliestBlock 69.701708
+removeEarliestBlock
+updateBlock kN9R5TTPv3o 336.360627
+updateEarliestBlock 97.525232
+removeEarliestBlock
+updateBlock qM7J4csK76Fg -50.945835
+addBlock emyjNUiER 79.911533 77866
+removeBlock 4yhqC
+addBlock 2n7PD -22.916864 80355
+addBlock M1AGp 190.173042 69817
+addBlock h0xpmhN -0.113528 19215
+addBlock sxroeZqayAYT -91.512559 34611
+addBlock LOdhluSkFS6A -128.568262 42453
+getBlock NHNEa8Ol
+removeBlock IpVd
+updateEarliestBlock 82.018620
+getBlock PjVJtP8Uwup
+updateEarliestBlock 121.277401
+updateBlock 40yxJeqpGs -210.218647
+addBlock am88qw -185.086881 55258
+updateEarliestBlock -142.555182
+addBlock ZjNrcKn -30.183691 58351
+addBlock 6fFtF 95.230097 40007
+removeEarliestBlock
+updateBlock EZj3 -61.421706
+getEarliestBlock
+updateBlock ZvgJ7 18.950203
+addBlock kkjt8F0Qotwi1 15.412183 514
+removeEarliestBlock
+updateBlock YVXN2tIIMUn -99.155003
+updateBlock zzN5UXgOx3yB 123.189232
+updateEarliestBlock -64.770798
+updateBlock BJ -25.232446
+addBlock 1HCaH7W -24.457407 75115
+removeEarliestBlock
+addBlock J -73.578471 24509
+removeBlock R8KI
+getEarliestBlock
+updateBlock 44Z -34.987679
+removeEarliestBlock
+removeBlock Vkk9YXOLHI
+getEarliestBlock
+updateBlock nPjinKxk -56.038687
+addBlock Xza7QGp6 21.128224 84727
+addBlock 9AqtDeuD7O -84.685445 17951
+addBlock Jc4 21.509684 10133
+getEarliestBlock
+addBlock v8lmNbmdbdG65 181.650264 69311
+updateBlock vnzdYzyxK -6.757843
+addBlock iazWlZOorEyTi 77.862240 81518
+removeBlock p0aPyp
+removeBlock 6qM9EW
+removeBlock BeEeLFowx19c
+addBlock 46 104.787266 29918
+addBlock OJRv89 10.953843 67026
+updateBlock HJIaub71QD 169.808809
+addBlock f9IokbT 26.105942 82754
+removeBlock MwssmTAH
+addBlock W1eqLI -66.302178 86323
+addBlock 5d -30.186729 49905
+addBlock 2FQ7L -25.524103 49686
+updateEarliestBlock -131.312013
+updateEarliestBlock 10.542533
+addBlock cGjvb7yIotqa5 5.476764 9495
+addBlock 0MsUkxQmC35 -243.513743 12435
+addBlock Ram61fDnTgL -45.107974 97864
+updateBlock qJ0J0E -5.935240
+removeBlock vY6zQRTvYmEq
+addBlock i4 -160.760048 4790
+addBlock VBAclGXKa 91.898683 45018
+removeEarliestBlock
+addBlock iP5Cr 251.593759 63438
+addBlock R8KI 145.671607 26416
+addBlock kWpyW9Zzr -70.264513 85217
+updateEarliestBlock -24.617543
+getEarliestBlock
+updateEarliestBlock -53.357222
+removeEarliestBlock
+getEarliestBlock
+addBlock JaXCBkhV 7.493455 84903
+getEarliestBlock
+updateBlock GZInp96G -195.228264
+addBlock 0 4.270995 23942
+removeBlock 7f0
+addBlock YohoUFp2RAyf -37.761985 98152
+removeBlock rDBozjAldX2a
+addBlock CTvQnfte4 11.894697 35403
+addBlock 0YERAK5frAj55 52.752399 9807
+addBlock EPj9PfLEMuk 59.035488 82539
+updateEarliestBlock 99.113784
+addBlock D47lPSGuvXCz 6.120899 88615
+updateBlock I -99.256191
+getBlock XANDSxu4r
+removeBlock SdZ
+addBlock bpxFt 152.621602 84022
+addBlock n 67.290780 55228
+removeEarliestBlock
+addBlock j7JOog58bw -20.193412 95305
+updateEarliestBlock -170.256363
+addBlock ZAC5x -10.070507 40842
+addBlock V -27.668567 8153
+getBlock V
+removeBlock iP5Cr
+removeEarliestBlock
+addBlock MwssmTAH -125.333325 62007
+updateBlock 82c2MXFm2g -158.527814
+getEarliestBlock
+addBlock wL4047 9.463442 14285
+getBlock yPE58I3nql9x
+addBlock X0xeSHp 31.166497 55379
+addBlock IOaIJ0j -74.420774 91198
+getEarliestBlock
+updateEarliestBlock 93.093733
+removeEarliestBlock
+addBlock kUJuk 15.070518 95132
+addBlock g1Z5P -112.204447 30366
+getEarliestBlock
+updateBlock 9AqtDeuD7O -151.772454
+getEarliestBlock
+getEarliestBlock
+updateEarliestBlock -51.670622
+addBlock gHwtg -5.955529 6669
+addBlock OSbz43BpFT9 -15.529432 6432
+getBlock FQ5D25lVg
+addBlock bP9lSsRT7T1cB -43.064151 19207
+updateBlock w -39.573636
+getBlock FP
+updateEarliestBlock 42.448829
+removeBlock e7T3yb
+getBlock l0X
+updateBlock Rnx 191.970162
+addBlock vY6zQRTvYmEq 96.507562 44116
+getBlock RgTEgJ
+removeBlock XANDSxu4r
+addBlock l -40.918151 80041
+updateEarliestBlock -109.187746
+addBlock pLEgVTH -47.536154 66572
+getEarliestBlock
+getBlock t6RMi9FN
+addBlock ZxB -63.823887 27936
+addBlock XANDSxu4r 201.346442 72123
+removeBlock j7JOog58bw
+addBlock 4LTpaQijxb 171.117092 8825
+updateBlock xOswGWCM89 -195.326953
+removeEarliestBlock
+addBlock z -113.726829 99421
+removeEarliestBlock
+updateEarliestBlock -33.603466
+getBlock 4S1TNkR5uEY
+updateBlock Rnx -87.665346
+removeEarliestBlock
+addBlock PWXSdB2X6VQ -34.946832 4068
+addBlock 7GIL22n8 73.753033 33455
+addBlock CsoT3toR -86.253236 17954
+addBlock oh9D 83.710584 39466
+addBlock 7k 112.746205 14797
+removeEarliestBlock
+updateEarliestBlock -79.958146
+updateBlock e3bSwAng3d 124.126415
+addBlock OmfE5astU 39.695925 3812
+addBlock 9Nkl 7.352757 9935
+addBlock Fs5 170.885680 24839
+addBlock neulQA07mc5o0 -54.949141 84268
+addBlock bYl4uZg8 -90.633489 98527
+getBlock fS4cND7o1PU6h
+addBlock aRU 5.166684 91936
+updateBlock Pm9ngWGemp -18.700448
+removeBlock mj6uy4oLTC
+updateEarliestBlock -113.552394
+addBlock nnbEdP 180.358350 11348
+removeEarliestBlock
+addBlock Szh0EGhAUQe8 -54.129228 27592
+updateEarliestBlock 138.968615
+addBlock snaFXYvCU 162.479541 44542
+getEarliestBlock
+removeEarliestBlock
+addBlock Do0 -168.268985 30092
+addBlock 3zKXGCIDZA 16.498360 3376
+removeEarliestBlock
+removeEarliestBlock
+removeBlock kogeFYhx0Pmu
+addBlock L2 -167.982496 42749
+addBlock i 30.730594 81432
+getBlock s
+updateEarliestBlock -1.384942
+removeEarliestBlock
+addBlock 23T9 -16.154115 63343
+updateEarliestBlock 164.749884
+addBlock iWl -334.623520 4884
+addBlock aizR 142.391444 31149
+removeBlock Iyp4
+addBlock z0B1 -289.219964 28089
+addBlock 3auLjAa -74.454882 98448
+getEarliestBlock
+updateBlock eM -141.916811
+getBlock TP9CAki3LoK3R
+updateBlock vY6zQRTvYmEq -124.291217
+getEarliestBlock
+removeEarliestBlock
+addBlock l7TDJso2f -42.742791 49802
+getEarliestBlock
+updateBlock xZVD1ZHrUbT 232.968606
+addBlock uNhso2t -162.125637 16265
+getBlock bYl4uZg8
+addBlock JoCQR02Drotj 36.044229 87393
+removeEarliestBlock
+addBlock rDBozjAldX2a -148.882958 77762
+updateBlock 2HoHf4bxI -31.946543
+addBlock amFsz -53.007612 36325
+addBlock Iyp4 -13.946254 35682
+getEarliestBlock
+getEarliestBlock
+getEarliestBlock
+getEarliestBlock
+addBlock 2dbdXEQsH -89.610229 15489
+addBlock ljzNFx8rRrT 16.926891 36184
+addBlock jyy -193.683028 93588
+addBlock jn4 -2.781073 3529
+updateEarliestBlock 76.482724
+getEarliestBlock
+getEarliestBlock
+addBlock SdZ -81.577758 63004
+addBlock 68JFMUh -86.604090 58248
+removeBlock W1eqLI
+getEarliestBlock
+updateEarliestBlock -6.515905
+addBlock IMZ 113.242460 37880
+addBlock HisolkxhdZ 30.237544 86621
+addBlock zhhP6 -131.096271 53746
+addBlock WlL -247.128769 78936
+addBlock vp51EKm -103.360281 96011
+addBlock m9wbL0ySKaUh 184.037217 1306
+addBlock Vkk9YXOLHI -38.460032 26745
+removeBlock ZCXVDl0xJ
+updateEarliestBlock -38.290648
+addBlock a4I -23.547619 33320
+getEarliestBlock
+addBlock RP2 97.764370 73145
+getEarliestBlock
+addBlock Ry8A 2.150677 38034
+addBlock g 77.244363 36975
+removeBlock MaoMx
+addBlock tjL8YPP -113.719239 40610
+updateEarliestBlock -4.335053
+addBlock gbCUB -97.349452 44849
+addBlock C9Eny16SxWcqK -42.349560 92119
+removeBlock lgfYtUlKqi0a
+addBlock 8GxyQaUkssom -99.341351 17328
+updateEarliestBlock 110.437475
+getBlock CKrnFp8oD
+addBlock fBE 38.473109 64056
+addBlock aHbgTJAx -8.796617 13162
+addBlock fK2lgl -154.284274 5619
+addBlock yC1DhfyF9z 150.786624 50088
+addBlock dRw6SrWckr3 29.076428 89942
+getEarliestBlock
+updateBlock ksX -110.280074
+getBlock SxD6Bg
+updateBlock Qu 28.337113
+removeBlock f9IokbT
+removeEarliestBlock
+removeBlock m9
+addBlock iP5Cr 19.665984 38076
+removeBlock ZxB
+removeBlock l
+addBlock 9OsAQVG 47.446622 94834
+removeBlock t6RMi9FN
+removeEarliestBlock
+addBlock rT7sXwtghIrO 58.155531 3667
+addBlock 7Gbdbu4NvW -239.769669 10760
+removeEarliestBlock
+updateBlock VBAclGXKa 42.152730
+removeBlock xOswGWCM89
+updateEarliestBlock 44.858014
+addBlock NotlS6JQ 14.527338 99392
+addBlock kxILv8h7Ny 87.119581 46744
+updateBlock byjsJ -70.108785
+addBlock f9IokbT -37.997447 90022
+addBlock t6RMi9FN -21.311429 19050
+updateEarliestBlock 31.359195
+addBlock Wh 136.596855 17440
+removeBlock quJuWB7qoXQ5M
+updateEarliestBlock -53.923792
+addBlock JEn5C -29.191469 64918
+addBlock jP5O0Quq 79.025890 1406
+getBlock 7k
+getEarliestBlock
+getBlock Jc4
+addBlock 1xLEOgPfPj 120.868421 47388
+addBlock DgTtLr -128.582149 7398
+addBlock 9r4 -58.698388 31479
+updateBlock Jc4 123.064656
+addBlock SCtWRr6 -154.004982 9104
+removeEarliestBlock
+addBlock BeEeLFowx19c -2.218033 30463
+addBlock IO2AGR1O3rTH -40.918179 17092
+addBlock mbi6X -49.839743 850
+addBlock TeN91 -145.377463 47077
+addBlock 4yhqC 21.025126 6397
+updateBlock aWg -43.979341
+getBlock Zid6gUQt
+updateEarliestBlock 43.052620
+updateBlock E98WFqo 99.959846
+updateEarliestBlock -123.459401
+addBlock 4costx5CvVkg 15.226161 43308
+updateBlock K -123.628433
+removeEarliestBlock
+removeBlock M1AGp
+addBlock KSwvOj48xisyW -10.025926 24321
+getBlock Zhaabdlw
+updateBlock jjtv2GY6 57.452202
+getBlock vtifoL
+removeEarliestBlock
+getEarliestBlock
+removeBlock K8oc4CGhB5sA
+updateBlock Kz -58.432355
+removeBlock PMwSoFa
+removeEarliestBlock
+addBlock 3XL0fUKu 17.292269 35585
+updateEarliestBlock 304.936249
+addBlock pHOv6g 131.193221 59465
+addBlock IpVd 111.492311 78922
+updateBlock PWXSdB2X6VQ 37.028818
+removeEarliestBlock
+removeBlock Hx
+updateBlock yC1DhfyF9z -29.538252
+removeBlock O1DueT
+addBlock oCg5Yngd6z8cc -77.894214 50200
+addBlock ZLyTuZqvLii 26.539557 70908
+updateBlock jjtv2GY6 -40.861596
+addBlock CGSZtW 114.799012 4849
+addBlock O1DueT -18.459335 24805
+removeBlock JaXCBkhV
+addBlock xOswGWCM89 19.084630 6401
+getEarliestBlock
+removeBlock xyIc4v6IGW2
+getEarliestBlock
+getBlock mjJ8b
+addBlock uX6WZ -45.289530 118
+getBlock Vkk9YXOLHI
+updateBlock kN9R5TTPv3o 81.935858
+addBlock JaXCBkhV 99.580465 5777
+removeBlock ZMg9X8eizTL
+removeBlock I
+addBlock YYsO 195.204628 23458
+addBlock wbQRRaY -79.840003 14119
+removeEarliestBlock
+updateEarliestBlock 107.187336
+addBlock 4sx9FTxSRH -18.604792 22265
+addBlock w6D -84.616371 37134
+removeBlock jyy
+addBlock f 205.922226 87695
+addBlock xTRX7 94.637342 13187
+updateBlock SdZ 83.468983
+getBlock xZVD1ZHrUbT
+addBlock FX3z -29.996039 44897
+addBlock FE2s -50.245419 38462
+addBlock JHi56rn8 -38.059981 14735
+addBlock FsilK6VP 119.896670 63189
+addBlock lfsnh9jYnvqi7 48.968576 81929
+updateBlock gbCUB 10.545168
+updateEarliestBlock 59.306117
+removeBlock vHvotdYVKyuQ
+updateEarliestBlock 100.763270
+updateBlock oz4Ny -147.986729
+updateEarliestBlock 102.459211
+getEarliestBlock
+updateEarliestBlock 58.749047
+removeEarliestBlock
+addBlock Su4E5kfYdr -92.250566 27984
+addBlock e53B9jube2 39.952462 7165
+updateEarliestBlock 83.778158
+addBlock gKM0SO 141.876578 13932
+removeEarliestBlock
+removeEarliestBlock
+updateEarliestBlock -104.416839
+addBlock yB1c6uk2qma -30.183354 74614
+removeBlock rzGHfFtAjN
+removeBlock i
+addBlock Zplgs15dkhr6s 35.590878 68577
+removeBlock YxXmXBu81Vrm
+addBlock iPgUAteo 155.704614 50016
+addBlock Hn1 46.482798 33405
+getEarliestBlock
+addBlock YzSdXuRMDP6uZ -71.674101 88620
+addBlock DlhcVAc0KcIjZ 6.279248 15375
+removeBlock 3rBvPA
+getBlock rhra
+updateEarliestBlock 13.293144
+addBlock vc 139.673341 88874
+addBlock WUZs0uZ 115.398739 53609
+addBlock 50FOVLBzu8wly 7.489726 40936
+addBlock iSx9Sqn -50.347432 30827
+addBlock nyBvX 11.868754 49589
+removeBlock 2HoHf4bxI
+getEarliestBlock
+addBlock i -149.239137 46481
+getEarliestBlock
+getBlock oxG
+removeBlock DlhcVAc0KcIjZ
+getEarliestBlock
+getBlock Of8LFdpoAm
+addBlock joHGRBx 7.087368 979
+addBlock tb2 51.059056 20443
+addBlock ko35o -42.243295 31806
+getBlock FE2s
+removeBlock v3rfMpYbWzXp
+addBlock y99nfW41c -47.248827 87959
+addBlock rrs5 -22.765874 53481
+removeBlock TUEuUzb
+updateBlock vz8ck7h9 -51.215037
+removeEarliestBlock
+getEarliestBlock
+getBlock Zc
+getBlock xQWgR
+removeBlock ccmMY
+addBlock 2QqdZQblhB 139.328078 33420
+addBlock A39muPDmh -29.232099 11739
+getBlock 96qTqSS730ES
+updateEarliestBlock 16.540996
+updateBlock Jyir0x080 -40.097473
+updateEarliestBlock 178.534744
+getBlock YCsgWi9Hcg
+removeBlock Sbx0
+updateBlock HJIaub71QD -78.944732
+addBlock Y 37.581332 81306
+getEarliestBlock
+updateBlock Kz -24.454438
+addBlock ZL -124.842759 52836
+addBlock kCKMaK9h 96.395220 51732
+removeBlock owa
+addBlock oUhR4I89JTQ 64.578575 74346
+getBlock FsilK6VP
+addBlock 28vNiA2 73.299849 60482
+updateBlock qVn5R -332.364050
+addBlock WkDjDi1CgNjT 22.693202 73211
+addBlock QDlsvNWZb -185.168040 68826
+removeBlock g1Z5P
+getBlock iazWlZOorEyTi
+getEarliestBlock
+addBlock 2Mosu6Sab -24.768831 82151
+addBlock 9J 133.654006 8596
+removeEarliestBlock
+addBlock ZxB 110.408753 6708
+removeBlock S
+removeBlock r
+addBlock x -83.589200 48706
+removeEarliestBlock
+getEarliestBlock
+addBlock H12vTNmE1cs3 -16.363391 26031
+addBlock MaoMx -168.710942 34953
+addBlock vxeyZfXUhIPHC 58.185284 2436
+addBlock MZjg -111.993339 58423
+addBlock Txxohc 22.150379 8741
+addBlock KA9UB 45.970073 73603
+removeBlock jjtv2GY6
+addBlock 4LFTlVuii 205.765091 50894
+addBlock TsKWWeZ -99.248688 43346
+getBlock TbpOaCfr
+addBlock vSI 55.870600 11147
+removeBlock QkOMeOg
+getBlock Eq2jTE1o6ZEbk
+removeEarliestBlock
+removeBlock luIzn4pyg
+addBlock paR0X6q 0.865851 498
+getEarliestBlock
+addBlock GtRsXym -59.438101 5550
+addBlock O5HWH8hHNu 84.563193 33023
+addBlock 2dRLj -65.497581 2778
+removeEarliestBlock
+updateEarliestBlock -78.814799
+addBlock 1HA -79.385997 1701
+addBlock i0T 55.258102 24113
+updateBlock ns 95.502753
+addBlock kfhZHQSx 237.850734 59888
+addBlock V0ZhQSCAz4 222.487871 86005
+removeEarliestBlock
+getEarliestBlock
+addBlock 5dKsQSl4SL -194.258289 51973
+addBlock aKmK6Xnn -17.027808 9871
+removeBlock aNoSf
+updateBlock LMCTRQE 132.337324
+updateBlock UKugpoiqEZ5m 212.459285
+addBlock GoxiH -96.210746 7304
+removeEarliestBlock
+removeEarliestBlock
+updateBlock joHGRBx 28.200060
+removeBlock vY6zQRTvYmEq
+removeBlock PhMmEjmdzav
+getEarliestBlock
+addBlock tiUtPqAeT -26.002899 12414
+addBlock DbHLJXkSF -37.112830 61587
+removeEarliestBlock
+updateBlock iazWlZOorEyTi -167.589187
+removeBlock YCsgWi9Hcg
+addBlock c 126.865111 60238
+getEarliestBlock
+addBlock vl4T 82.467167 55652
+addBlock 6Y7vqrUeMF1 -83.672675 62497
+removeBlock s
+updateBlock CKrnFp8oD -24.083028
+addBlock DlhcVAc0KcIjZ 44.166260 3239
+updateEarliestBlock -120.217073
+getBlock KzcCZ5TB
+updateBlock J -119.812653
+addBlock CXRjyzfZO4gBv -72.613688 57554
+updateBlock 82hKzrXGmkN -91.214292
+updateBlock w 136.874904
+removeBlock EZmICZjspak1
+updateBlock uA2Yp9t03E 84.194586
+updateEarliestBlock -58.541116
+updateBlock LMCTRQE 148.433165
+getBlock eS5lliJ
+addBlock vb -105.020445 92899
+addBlock bSj2YGsDT -122.625174 87094
+updateBlock FP -124.198313
+updateBlock 46 4.233102
+addBlock zOPxn -225.327462 64248
+addBlock 1bPCuH -104.472410 79200
+addBlock 55BvInlRyMKF -20.929006 95846
+addBlock Htd39FMHZ -20.498783 66242
+addBlock Oy -141.259158 64901
+getEarliestBlock
+getEarliestBlock
+getBlock jIahYkbO
+removeEarliestBlock
+removeBlock iPgUAteo
+updateBlock E6O7t4lW 138.803978
+removeBlock iTq
+addBlock m9 -10.093770 83977
+addBlock EUnot7XOwS 17.026245 58239
+updateEarliestBlock 29.669484
+addBlock 4yOiqRcWH6 69.529502 53739
+addBlock Itipk -231.971152 14806
+getEarliestBlock
+updateBlock hHBqguutgMkF -65.741505
+updateBlock BblEaXIWXyV -51.950985
+addBlock 2qc 101.011472 93447
+getBlock x
+addBlock F2jS -274.526730 55977
+addBlock MziU34 82.639350 51562
+getBlock ewNqU21
+addBlock A -7.711181 83291
+updateBlock HisolkxhdZ 35.682869
+getBlock 9OsAQVG
+addBlock PM5YGf000N0ex -19.437781 42492
+removeEarliestBlock
+addBlock iPgUAteo 33.525917 64072
+addBlock 3oPUqSoJt 10.191337 68374
+addBlock KJ6O 32.073524 97470
+addBlock NeXFTV -73.745877 58920
+addBlock iPk6q 50.623083 92460
+addBlock hNBiMTBdJWJ 16.360005 64447
+removeEarliestBlock
+addBlock tFztlT0sycr 134.683489 53552
+updateBlock 82c2MXFm2g -165.268390
+updateBlock DgTtLr 4.168870
+addBlock ccmMY -120.052829 3637
+removeEarliestBlock
+addBlock Y0 8.814106 4440
+removeBlock bshO
+getEarliestBlock
+getBlock rAK
+getBlock w6D
+addBlock lNUN8PKmXLj 69.936630 99858
+addBlock wWeI -26.678388 49308
+getBlock 82c2MXFm2g
+addBlock RAJBylfu7 -29.738253 8764
+removeBlock bYl4uZg8
+addBlock oVug4POI4q600 -78.277108 56692
+updateEarliestBlock 105.993669
+removeBlock Wh7Gu5XWEEJ
+getBlock t6RMi9FN
+updateEarliestBlock 159.825386
+removeBlock CKrnFp8oD
+addBlock 47S7 26.633618 39961
+getBlock vp51EKm
+removeEarliestBlock
+getEarliestBlock
+updateBlock 4yOiqRcWH6 76.870093
+removeEarliestBlock
+addBlock k3NbvDoE0hx -67.750380 32452
+removeEarliestBlock
+addBlock INYjafpbWOI 107.760309 25308
+addBlock eoTkXi55rnp -105.005343 5137
+updateBlock viBHkf 167.584699
+addBlock FkI8ZAshxmk 1.497647 9706
+removeEarliestBlock
+addBlock 0Ii 179.753658 35847
+getEarliestBlock
+updateBlock PWXSdB2X6VQ 62.826394
+removeBlock Qu
+removeEarliestBlock
+removeEarliestBlock
+getBlock Ol5
+removeBlock sF1IXkkXeM1S
+addBlock tKcH0Nsky -126.772941 12152
+addBlock 3r -26.930160 70243
+getEarliestBlock
+removeBlock g2KPyDP1jr
+removeEarliestBlock
+removeEarliestBlock
+updateEarliestBlock 76.598782
+addBlock xnJH1 -87.047093 87834
+updateBlock uX6WZ 84.971501
+addBlock ZCXVDl0xJ 56.908072 47247
+addBlock 2Y5B 84.482655 16054
+addBlock ww4jgiaJ6R -93.900341 17196
+getEarliestBlock
+removeBlock vTQzSKhVr
+addBlock FDCaethX6 61.782969 98990
+updateEarliestBlock -117.437908
+removeEarliestBlock
+addBlock M4C0t62KQyp7 0.836478 719
+addBlock risfy3MsUqLjh 18.094468 91152
+getEarliestBlock
+addBlock AZE -39.307398 82531
+addBlock 4Xzk 43.220217 73543
+addBlock ihvMl3 -113.997205 70333
+updateBlock QDlsvNWZb 126.078297
+addBlock B4 -49.986453 92695
+updateBlock YVXN2tIIMUn -3.144007
+getEarliestBlock
+getEarliestBlock
+updateBlock ayAWK9wl -118.165826
+removeEarliestBlock
+addBlock Gz -81.998645 10175
+addBlock hOTpF 64.674114 11403
+addBlock aheBzzduA4yDK -109.894825 61502
+addBlock GNrXb0 -25.233834 21981
+removeEarliestBlock
+updateEarliestBlock -34.999998
+addBlock EvbRO 172.710458 9701
+getEarliestBlock
+addBlock 0ph5C0FPE 20.161873 63147
+addBlock QSDdooPJFz 157.165340 12643
+addBlock wFeTbUf 80.056090 3259
+updateEarliestBlock -34.909270
+getBlock INYjafpbWOI
+removeEarliestBlock
+removeBlock oIUSG
+getBlock 9r4
+removeBlock aHbgTJAx
+addBlock GXcs8et2TJ 53.221666 29273
+getBlock Zplgs15dkhr6s
+addBlock Fl7sCtiK -54.390943 11626
+getEarliestBlock
+addBlock u -2.048654 50801
+addBlock 4hLxEXVu3WXkp -147.367915 3843
+removeBlock Sum6KAyPAjL
+removeEarliestBlock
+updateEarliestBlock -8.187397
+addBlock aML3 21.957797 22332
+removeBlock 1HCaH7W
+addBlock cCsyBfXD 51.830946 28251
+addBlock PHFx 70.101476 97373
+addBlock PmpS3TMlhC -28.781639 33262
+getEarliestBlock
+updateEarliestBlock 169.749222
+removeBlock emyjNUiER
+addBlock Gxm7rBtE2Y3 25.670448 59910
+getEarliestBlock
+addBlock qrZ4m0M -89.800227 80864
+getEarliestBlock
+addBlock 3TVc3ZAnxOCm 79.211393 57756
+addBlock WqNxCSyFA3 -156.799497 7565
+getEarliestBlock
+removeBlock MFug5cdg
+updateBlock Hg 8.399274
+addBlock 2HM7asr992r 53.986650 32725
+addBlock 0O 159.532598 97339
+removeBlock QESIhqSV4dPy
+addBlock 5d3RHpcWlr5 -122.941695 32567
+removeEarliestBlock
+addBlock f5iLj 73.700318 31328
+addBlock YCsgWi9Hcg 52.981023 7421
+addBlock 0n88Z -93.180881 263
+getBlock NVfT263
+updateBlock M4C0t62KQyp7 14.207736
+getBlock R6NfbY9h
+getEarliestBlock
+addBlock 1HCaH7W -187.923402 4803
+getBlock Q5
+updateEarliestBlock 58.443097
+addBlock NBPEoiRwbQtt -2.640767 41466
+updateEarliestBlock -137.356171
+updateBlock Zplgs15dkhr6s 71.096877
+removeBlock 6Y7vqrUeMF1
+updateEarliestBlock 82.829982
+addBlock Sbx0 -64.049471 8527
+updateEarliestBlock -24.589005
+addBlock j7qOy 198.829266 18713
+addBlock z9j6UBwy6 95.375316 79578
+addBlock hdP -122.794876 42727
+updateBlock yB1c6uk2qma -13.420129
+addBlock 4K -22.846400 80433
+addBlock TxOl7v -104.407791 87694
+updateBlock zbwMnos 34.283273
+addBlock A6cwowHN4 -9.723772 21765
+addBlock Mu0e4mVlq 39.713994 5569
+removeEarliestBlock
+addBlock U -122.138079 88830
+addBlock VkIugCUH 175.041613 56874
+addBlock 2N -27.617095 20333
+updateBlock IMZ -87.699471
+addBlock PpXNIlPL 66.189224 308
+removeBlock QDlsvNWZb
+addBlock ZNiDjAYLR -109.238423 7851
+updateBlock 8m 61.909675
+addBlock pPXDZ 86.993479 83489
+addBlock e 45.262513 2755
+addBlock jvKp1 -91.047489 755
+getBlock E98WFqo
+addBlock 2ZkhNM 15.740906 45839
+addBlock He3 -93.487674 82817
+addBlock X96dR6dD2U -4.620578 90047
+addBlock T -190.938493 3798
+getEarliestBlock
+getBlock GsKD5csrJ3oa
+addBlock 5RdTRbJpCrFE -72.018718 35272
+getBlock NeXFTV
+addBlock whpu8d28sy -51.492278 26646
+addBlock k7E -11.959357 66027
+addBlock XSIdOOsEB7Cqy -45.955095 23785
+addBlock 7WJm 79.164546 22581
+addBlock vO6GBVHT 136.037698 34089
+addBlock 85nDhoo 34.896380 99253
+updateBlock FE2s -53.031740
+getBlock 3r
+getBlock He3
+addBlock bYl4uZg8 64.438550 18911
+removeEarliestBlock
+getEarliestBlock
+getEarliestBlock
+addBlock oH 155.784879 25922
+removeBlock 9oyJmWTd7F3A
+addBlock S -174.036651 11634
+updateEarliestBlock -96.477436
+removeEarliestBlock
+updateBlock 44Z -147.600011
+addBlock IqtII2 92.746533 40230
+addBlock dRNZLscdsT0K 70.895033 5696
+getBlock Eq2jTE1o6ZEbk
+updateEarliestBlock 160.559082
+removeEarliestBlock
+getEarliestBlock
+updateBlock K 4.834010
+updateBlock NotlS6JQ -103.052284
+getBlock 2dRLj
+updateBlock 46X -63.075824
+getBlock hOTpF
+updateBlock xnJH1 -20.766212
+updateEarliestBlock -45.057033
+addBlock s 3.818291 66109
+addBlock j3hu0 -76.014549 14383
+removeEarliestBlock
+addBlock MFug5cdg -134.664431 99850
+addBlock luIzn4pyg -3.553316 11816
+removeBlock 5fWSpK
+getBlock 2N
+updateEarliestBlock 84.112565
+updateEarliestBlock -236.497147
+addBlock im -58.406078 44085
+addBlock 6I1DT6AJD -93.567657 2297
+addBlock vNN 93.996762 78918
+addBlock vY6zQRTvYmEq 144.597493 4301
+updateBlock uGM -63.812626
+getEarliestBlock
+getEarliestBlock
+removeBlock Jc4
+updateEarliestBlock 18.639604
+addBlock gfobd9T8c -9.557266 41714
+addBlock ja 60.117370 3257
+addBlock hQjWaQsrYZFt -90.799471 47026
+getBlock snaFXYvCU
+addBlock IlY91P12dY 55.678420 6271
+addBlock E254kj -19.730806 76299
+removeEarliestBlock
+removeBlock 9J
+addBlock yHFQnXAQKoDR -161.293285 27480
+getBlock xoiY054dsE
+updateEarliestBlock -69.044614
+updateEarliestBlock -104.903984
+addBlock yQGMJwE5hVd -25.815068 85793
+addBlock 3rBvPA 182.033553 79669
+updateEarliestBlock 0.185252
+removeBlock y99nfW41c
+getBlock tVnZRNU6Y
+addBlock YpZAgmj -66.391410 22805
+removeEarliestBlock
+addBlock WHSJoqetZ 162.506278 2843
+removeEarliestBlock
+updateEarliestBlock 27.842259
+removeBlock YX2PG
+updateEarliestBlock 12.618979
+removeBlock 46
+addBlock R5TXRFdXG0wnu -92.463563 84245
+addBlock 43n 41.909683 47181
+addBlock Y5oLsSWJ9wO -31.039166 89373
+getBlock BY
+getEarliestBlock
+addBlock p9QM -7.190395 11590
+addBlock OT 9.320936 14570
+updateEarliestBlock -26.660798
+removeBlock X0xeSHp
+updateEarliestBlock 137.353674
+getEarliestBlock
+updateEarliestBlock 46.087870
+addBlock 7vkbR1p5wr 78.655863 7260
+getEarliestBlock
+addBlock zNg 106.655345 8841
+updateBlock He3 -21.024795
+addBlock ro 49.251881 31936
+addBlock FThvGrUb8 -0.944468 8383
+addBlock nfDoAQ 2.518196 50638
+addBlock 4Uyra6Gd4rwd -15.851227 67013
+getBlock ZGo
+removeEarliestBlock
+removeEarliestBlock
+removeBlock inOEh
+addBlock ukXP -96.745855 81285
+addBlock NRSlJ -79.047137 95218
+getBlock LMCTRQE
+addBlock Gf7C0Y -40.117102 15469
+updateEarliestBlock -88.639688
+getBlock 4sx9FTxSRH
+addBlock d8dof 94.540517 48527
+updateEarliestBlock 37.690236
+removeBlock l7TDJso2f
+updateEarliestBlock -273.701027
+addBlock 5kqB -26.252482 96510
+addBlock F 37.990188 4483
+getBlock wWeI
+addBlock X 131.356731 11149
+addBlock HXtbbeZMpAB3 -39.429108 1868
+addBlock Vy01ZYqz4rlVq -11.956666 49955
+getEarliestBlock
+getEarliestBlock
+addBlock eyUNLBNpMinm 31.411233 47917
+addBlock SfL6 43.763176 45439
+addBlock tebtUcxQSU -51.340827 28595
+updateBlock IpQS3o 79.644836
+updateEarliestBlock 51.558685
+addBlock 8y2qM -19.103999 12399
+addBlock 6nBPsUps 127.091607 2243
+addBlock n4nrH 21.118781 18711
+updateEarliestBlock -217.705145
+updateEarliestBlock -86.916215
+getBlock A39muPDmh
+addBlock iEEvNGikrR837 -168.653086 85657
+addBlock emyjNUiER 41.532387 4287
+updateBlock xDMNjjDs -13.673598
+updateEarliestBlock -114.825781
+addBlock zjb 54.640773 9636
+addBlock jU2 93.344920 49857
+updateEarliestBlock 197.055484
+addBlock RVxO 149.698550 67395
+addBlock Eat3UqEMqjTvW 24.816153 66863
+updateBlock 8m -189.458093
+addBlock Dfkjk 16.534543 33537
+addBlock sz 32.670095 31719
+getEarliestBlock
+getEarliestBlock
+removeBlock 9p8HAEk0b
+addBlock ADUojiOuvFLe -46.598463 44336
+getEarliestBlock
+updateEarliestBlock 74.599363
+addBlock vrUcJV 100.458184 1134
+updateBlock tG1KHESy48u9 -4.417381
+addBlock Yr70Un 61.040032 76598
+addBlock ndHYmHJVB1y -48.158238 39712
+getBlock TP9CAki3LoK3R
+removeEarliestBlock
+removeBlock AZE
+addBlock QB5P 151.431968 98376
+updateBlock NeXFTV 61.661788
+removeBlock Htd39FMHZ
+updateBlock YqQgCl 64.681055
+getBlock 3zKXGCIDZA
+addBlock lnGV -60.737109 2040
+removeBlock RVxO
+getBlock i
+addBlock yi8zgfMlUb2 -68.307484 46260
+addBlock 9oyJmWTd7F3A -150.574066 68973
+getEarliestBlock
+removeEarliestBlock
+getBlock 2QqdZQblhB
+getBlock yZ4vxqyYre5
+getEarliestBlock
+getEarliestBlock
+getBlock t3Ziu
+removeBlock kWpyW9Zzr
+removeEarliestBlock
+addBlock hGy 65.928120 72278
+addBlock QZ -92.910621 90342
+updateEarliestBlock -148.056994
+addBlock j7JOog58bw 176.551485 6909
+addBlock 5cB 75.667633 9629
+addBlock iwaMQ2iqM4nr 232.707955 92579
+removeEarliestBlock
+removeEarliestBlock
+addBlock 2rbGzubsiSg17 -3.965102 49574
+getBlock vO6GBVHT
+updateBlock aERcoqRnyt -113.625930
+updateEarliestBlock 194.090691
+removeBlock bSj2YGsDT
+removeBlock O1DueT
+getEarliestBlock
+addBlock 9QH9ES9v -111.650961 23230
+getEarliestBlock
+getBlock j3hu0
+addBlock Q140Gd5KTJQ 214.088095 97446
+addBlock rpaFqET -96.681525 74153
+updateEarliestBlock 20.952623
+removeEarliestBlock
+getEarliestBlock
+getEarliestBlock
+addBlock W1eqLI 10.043873 56321
+getEarliestBlock
+addBlock sJn 35.334008 25782
+addBlock 8njCuIg7cF 37.533169 50158
+getEarliestBlock
+addBlock C992eROPhhH1 167.761578 20799
+addBlock ReH4 34.803703 1164
+removeEarliestBlock
+addBlock 2phPVhgbv 117.468788 53859
+updateEarliestBlock 101.211466
+addBlock ojNxaxtHP 173.131256 57425
+updateEarliestBlock -106.143819
+updateEarliestBlock 77.379412
+removeEarliestBlock
+addBlock Cm5 -51.296388 54720
+removeEarliestBlock
+addBlock diNgJFTfExw -89.724869 78087
+updateEarliestBlock -88.757024
+removeBlock 1XqcAO
+removeBlock risfy3MsUqLjh
+addBlock 46 31.061166 52008
+addBlock DOSu8icLLax -98.621881 7100
+addBlock 3YIPSd69cv4t0 54.282641 65418
+updateBlock Mqq -143.611226
+getBlock Pm9ngWGemp
+getBlock 3rBvPA
+addBlock jlcRzViem 54.525009 18619
+addBlock VFhigRJLNV 63.948785 985
+getBlock qM7J4csK76Fg
+addBlock SciH -56.127867 86295
+getEarliestBlock
+addBlock AvsD -76.973125 87563
+addBlock qs 53.739389 2174
+updateBlock vc -24.689279
+addBlock wVSrMyGpxfj 31.457113 83963
+removeBlock v8lmNbmdbdG65
+addBlock VUKasZh 92.398931 16817
+removeBlock Hn1
+addBlock diASb -66.048140 77190
+getEarliestBlock
+getBlock LOdhluSkFS6A
+removeEarliestBlock
+getEarliestBlock
+getBlock tDtl9oylb
+removeEarliestBlock
+updateEarliestBlock 70.949136
+updateBlock g 26.398770
+addBlock V6mY -301.138628 54384
+getEarliestBlock
+addBlock tpmoibEilO9r -42.443231 30998
+getBlock 4hLxEXVu3WXkp
+addBlock ssJ0JURqu4XH -23.846383 44170
+addBlock gmyv -62.170751 39074
+updateBlock vl4T 146.536352
+updateEarliestBlock 84.699710
+addBlock xx 1.133345 63113
+updateEarliestBlock 37.212127
+updateEarliestBlock -178.503122
+updateEarliestBlock 5.743115
+addBlock CXhy6 -77.182192 86771
+getEarliestBlock
+updateEarliestBlock -306.358825
+updateBlock 82c2MXFm2g -73.784154
+addBlock wYysQ -16.172708 3151
+addBlock iCEFaIGPn -22.985870 98896
+addBlock g1Z5P 147.778668 93592
+updateBlock DnWgx1dt 15.768596
+updateBlock u6LYVv7lLTg 54.251807
+removeEarliestBlock
+removeEarliestBlock
+getBlock 4MvtLSHf7Dk
+getBlock y
+addBlock Y9RLT -120.868489 36771
+removeEarliestBlock
+addBlock Wx5 -23.714629 78582
+getBlock 0YERAK5frAj55
+updateBlock wf -18.749474
+addBlock 2HoHf4bxI -3.175667 63774
+addBlock XvlBEfB1b6 -11.593277 7292
+addBlock 5JOM -79.074525 39781
+addBlock JGNMfs5MPHy9p 157.539132 35902
+addBlock Shd4VrY1ww 30.373548 29696
+addBlock GNtzFrfxBwwZv -81.563358 73076
+getEarliestBlock
+updateBlock jKG 32.936411
+addBlock lQhSQ4nnXnx -4.557044 71157
+updateBlock 46 -46.151675
+getBlock PHFx
+updateEarliestBlock -129.951465
+addBlock rzGHfFtAjN 17.430221 99091
+addBlock lO0 -16.631820 57814
+updateEarliestBlock 119.629731
+removeBlock cLKw
+addBlock RJWyhtUiiShVe -47.914091 23199
+addBlock zg 66.284764 6650
+removeEarliestBlock
+getEarliestBlock
+addBlock XN9QuGUY -156.892420 60045
+updateEarliestBlock 15.448993
+addBlock 88Z -44.783948 93674
+getEarliestBlock
+addBlock dH54tktuBL1EQ -18.076914 62427
+addBlock bfX1TDzW2mxo9 14.601394 56185
+updateEarliestBlock -65.787208
+removeEarliestBlock
+getBlock 58GKqMp2oiyKP
+addBlock RVxO 67.644024 14323
+getBlock Tqhim
+updateBlock YVXN2tIIMUn -23.393253
+addBlock G -0.675658 82652
+addBlock N1KVZQ58wQ0G -38.495280 34100
+updateEarliestBlock -31.230648
+removeEarliestBlock
+addBlock MNRpXvUmwVgRg 133.207800 53479
+addBlock xqmprrcUOYt 16.588312 63967
+addBlock 2HU0xSAj -102.645669 45680
+addBlock FbSwDnGZZ 22.783553 8431
+addBlock uDywPsEpN7n -20.356738 62978
+getBlock N
+addBlock Ci389Y 21.651256 13627
+addBlock Ib 140.071824 85137
+removeBlock 5
+getEarliestBlock
+addBlock T0PYmKRJ -155.150990 29212
+addBlock rncF -22.598624 1992
+addBlock AHfu62zti -46.825224 38566
+removeEarliestBlock
+addBlock F6iWh 35.616902 31043
+addBlock jyy -100.495619 87719
+addBlock OBaGt -71.386120 61501
+updateBlock IMZ 358.782840
+addBlock vg5WNK5 130.885811 37692
+updateEarliestBlock -33.870925
+getBlock OA5p7iZ
+getBlock Jsh
+removeBlock A39muPDmh
+addBlock k3kJbnE 92.733666 82515
+getBlock GUgC
+removeEarliestBlock
+addBlock M5 109.858979 93199
+removeBlock 2Mosu6Sab
+addBlock 5CKgXKEJBp -43.597566 48877
+getEarliestBlock
+getBlock C9Eny16SxWcqK
+getEarliestBlock
+addBlock nZG2StLC -50.521026 17162
+getEarliestBlock
+updateEarliestBlock 162.849409
+addBlock UBv5AqSu 20.618883 94505
+addBlock n1WVsaODk35Vr 42.874957 15602
+addBlock Q3SoVbo3X6M -38.587508 3110
+addBlock wdzngifO 40.145001 77108
+updateBlock 3oPUqSoJt 71.277493
+getEarliestBlock
+addBlock YxXmXBu81Vrm -2.913265 40868
+addBlock UrT -20.402838 3133
+addBlock cH2Y1nsnEz -47.881469 20661
+addBlock YmiUxZE -48.542070 69874
+getEarliestBlock
+addBlock iDHMSPq7wXdOl 9.563075 67732
+addBlock uVfR8cAw -53.303763 92854
+removeEarliestBlock
+updateBlock KSwvOj48xisyW -209.583289
+addBlock VATd5eUj8C -6.285738 5290
+addBlock sxtMe0 -79.801740 67399
+updateBlock Tqhim 65.832002
+addBlock XlA23GL3 -36.970377 1067
+addBlock j5Lp039 33.399882 49847
+removeEarliestBlock
+addBlock 23xo 163.259849 3794
+getBlock x
+updateBlock eM -9.047697
+addBlock FrVKZR -33.592784 69854
+addBlock B6sJEL7NVgO 55.331492 91957
+removeEarliestBlock
+updateEarliestBlock 91.253887
+addBlock B5XKQ54G 40.176187 87616
+addBlock dcMQPhEtgN6tg -88.396230 32504
+addBlock y99nfW41c -31.244534 12631
+updateEarliestBlock -17.833120
+removeEarliestBlock
+removeBlock gQaW2
+getBlock FE2s
+updateBlock WSiV -141.370321
+updateBlock nPjinKxk -127.982691
+getEarliestBlock
+removeBlock 1HA
+removeEarliestBlock
+removeEarliestBlock
+addBlock 7 -12.154513 69226
+addBlock m4H2rNF8 119.320707 74795
+removeEarliestBlock
+updateEarliestBlock 321.296773
+getEarliestBlock
+addBlock A39muPDmh -247.798261 61306
+addBlock UHMhTM1dqgVF -50.429713 45830
+removeEarliestBlock
+getEarliestBlock
+getEarliestBlock
+updateEarliestBlock 30.088021
+addBlock CKrnFp8oD 56.977760 59927
+removeBlock PHFx
+addBlock r -58.892266 72274
+getBlock MLS1Bf
+removeBlock PM5YGf000N0ex
+removeBlock vNN
+addBlock gKjbyBt -150.415478 2523
+addBlock xyIc4v6IGW2 -88.847246 42156
+addBlock Hsf0iB -164.133444 75579
+addBlock BG2jUCw -7.630899 85243
+getEarliestBlock
+addBlock aqJGzQGs7YdL 187.551121 98045
+addBlock 3 -47.899442 71872
+removeEarliestBlock
+removeBlock YqQgCl
+addBlock 6UjnkWZitmMku 13.307968 37161
+removeBlock sRYbTpLH7
+getEarliestBlock
+addBlock uXFEBXLnilQSZ 34.587157 93957
+addBlock l09xzqDmX8cne -109.269971 3826
+addBlock p 52.193866 4959
+updateEarliestBlock 189.893114
+removeEarliestBlock
+addBlock inOEh 72.353323 86619
+removeEarliestBlock
+addBlock 9J 110.102146 14483
+addBlock HbB2sFrW -24.195577 89937
+addBlock 65W4Vjqgro 51.902603 5685
+addBlock IV0KiVibLEoa 18.589097 79097
+removeBlock WHSJoqetZ
+removeEarliestBlock
+addBlock k -26.288895 4590
+addBlock XMfdUqVc -43.636224 31597
+updateBlock CuP -124.955197
+addBlock RjrdjeYXlRC0W 53.892180 17382
+addBlock wqrZZ 239.406347 91420
+updateBlock sxtMe0 -52.257164
+updateBlock 7WJm 105.242644
+updateBlock F2jS 50.854217
+addBlock OL 105.617886 27555
+addBlock Ds9PjsPmkN 13.829799 2120
+getBlock 0YERAK5frAj55
+removeBlock kxILv8h7Ny
+addBlock KeM8AqdUyNzOX 24.593107 55960
+updateBlock EuLCkn -38.206838
+updateBlock oVug4POI4q600 27.677603
+removeBlock Cyh0y1HJMYU
+addBlock 9Jusou8rv -102.051327 3122
+addBlock MyZq -36.540046 30738
+addBlock vxPja -42.847103 15222
+addBlock YZhn0ZwnWZH 67.098405 99674
+addBlock sjxed 32.247977 62381
+getEarliestBlock
+removeBlock RgTEgJ
+updateBlock vxeyZfXUhIPHC -119.733581
+updateEarliestBlock -72.639253
+getEarliestBlock
+removeEarliestBlock
+getEarliestBlock
+addBlock sHkPU9x 113.992630 74976
+removeBlock 5RdTRbJpCrFE
+addBlock sFtxJKsUKoz0z 197.595274 16378
+updateEarliestBlock -39.153639
+removeEarliestBlock
+addBlock OQtP -5.232011 6626
+updateBlock DnWgx1dt -63.972857
+addBlock UyZHUoOo3 62.622297 89138
+addBlock Mm -32.175110 289
+updateEarliestBlock 61.925682
+updateBlock oCg5Yngd6z8cc 157.861858
+updateBlock lfsnh9jYnvqi7 -52.822844
+addBlock lwyi3693q 72.869148 94748
+addBlock EvAUY80 151.476198 7471
+removeEarliestBlock
+addBlock Iciv0vca9mc -139.046279 41286
+addBlock 1prMc09Njc -127.193338 58004
+updateEarliestBlock 164.977489
+updateEarliestBlock -27.375388
+removeBlock eqRDqYCeY44v3
+addBlock Kr6Aa44jOpWnP 5.619434 32098
+getBlock Gf7C0Y
+addBlock BgCQZvIMQx -128.696761 6150
+addBlock jnsqqGE4 21.532721 47040
+updateEarliestBlock -2.433978
+getBlock cH2Y1nsnEz
+getBlock JHi56rn8
+updateBlock GbUD 39.713171
+getBlock 7Gbdbu4NvW
+addBlock 0nAWTMD9ood0M 91.615983 45194
+addBlock vhFmb7YG9J72 -230.847752 4396
+addBlock frlt0 -30.627135 31514
+addBlock pTu 77.501166 81865
+updateEarliestBlock -47.004306
+removeBlock im
+getBlock kWqKC
+addBlock TvvLnODspbzo -7.585460 6950
+updateEarliestBlock 186.010351
+addBlock fJr2wb -157.016407 8896
+addBlock WIlh68Qo4 17.661246 81882
+removeBlock Uno7PzR10
+addBlock JaJgZTX -164.989480 1737
+removeBlock 2fQzI7AJlc
+removeEarliestBlock
+removeEarliestBlock
+getEarliestBlock
+getEarliestBlock
+removeBlock Dfkjk
+addBlock IaRR7pZdnQ -18.282716 3443
+removeEarliestBlock
+updateBlock rpaFqET 94.462879
+getEarliestBlock
+updateEarliestBlock -293.431575
+removeBlock Zhaabdlw
+removeEarliestBlock
+updateBlock ndHYmHJVB1y 135.209084
+addBlock HSL0ZnjZxQUE 0.154791 12250
+updateBlock Hg -197.445046
+getBlock Shd4VrY1ww
+getBlock Q3SoVbo3X6M
+getBlock AvsD
+updateEarliestBlock 40.904051
+addBlock 3Igoxxhbk 5.111036 60664
+updateEarliestBlock -18.053835
+getEarliestBlock
+removeEarliestBlock
+addBlock AZE 31.312813 56121
+addBlock xIzcn 104.264708 18857
+updateEarliestBlock -21.379801
+getBlock MMaYREgiqXx
+getBlock 8m
+getEarliestBlock
+addBlock zaHok0AfJXo -52.986574 78606
+removeEarliestBlock
+getEarliestBlock
+updateBlock IO2AGR1O3rTH -24.644681
+updateBlock 3auLjAa -43.552368
+getEarliestBlock
+removeBlock nK09NU3rxkHb
+addBlock RJxshvWiSW 14.331440 23023
+updateEarliestBlock -17.035136
+removeEarliestBlock
+addBlock uDxA5Pxj8b 56.434133 61043
+addBlock Nb2B -115.214815 53033
+addBlock RseQ0 -33.806803 14921
+removeBlock Gf7C0Y
+addBlock Ks0a6O5zK7mH 91.674836 43690
+addBlock 1VLUJGLQ4t -99.515417 31192
+getEarliestBlock
+addBlock UNG 44.944830 60838
+addBlock fJN -47.720554 92084
+addBlock Bo49tUo7oz 66.661519 45181
+addBlock HTof5OmbeYIj -77.499571 8914
+addBlock O1DueT -5.741598 16680
+updateEarliestBlock 23.140331
+addBlock LGXuK5kvvo -139.534788 56697
+getBlock ux4PVeZ
+addBlock n7cJ3bCgD -135.531610 69189
+addBlock MpUF8F8DI1fq5 158.347471 80993
+addBlock fhWU31D -41.124755 20376
+addBlock Vmc7kHQxOGD -102.009300 47322
+addBlock bSj2YGsDT -10.132664 82428
+updateBlock oz4Ny 74.099212
+removeBlock bpxFt
+removeBlock JaXCBkhV
+updateEarliestBlock -188.875302
+addBlock AHiY6zlv3iA 79.238744 45441
+getEarliestBlock
+updateBlock fK2lgl -126.903633
+addBlock dFR8PM 12.156789 64923
+removeBlock rzGHfFtAjN
+updateEarliestBlock 30.564595
+getEarliestBlock
+updateBlock Kr6Aa44jOpWnP -36.900044
+updateBlock QSDdooPJFz -51.257877
+removeEarliestBlock
+addBlock ecwmArX 73.009810 5787
+updateEarliestBlock -26.749673
+removeEarliestBlock
+updateEarliestBlock 11.886872
+removeBlock 7VtkT
+updateBlock JaJgZTX 71.636421
+addBlock 1l61X 91.876717 97970
+addBlock YXtpX3RE -18.789046 3414
+removeEarliestBlock
+removeBlock TbpOaCfr
+removeEarliestBlock
+updateBlock inOEh -24.870024
+addBlock 6rNdDdhwm3V -79.629329 8924
+addBlock YDbwgEE5hHu -117.090541 51051
+getBlock i4
+addBlock IBa -236.215860 9864
+removeEarliestBlock
+getBlock NeXFTV
+addBlock HEpylyDq 249.848115 62192
+addBlock rzGHfFtAjN 242.151882 80420
+addBlock DdOjJx9Wn -119.470603 89244
+addBlock 6ZDw -11.469564 67643
+addBlock czoaPF4HP 136.661587 61829
+removeEarliestBlock
+addBlock 4 -100.688514 4338
+updateBlock 2N 19.546087
+addBlock d3ggB3Tfy -50.961615 65698
+removeEarliestBlock
+getEarliestBlock
+updateEarliestBlock -16.428836
+removeEarliestBlock
+getEarliestBlock
+addBlock RoCZVft -147.377914 9867
+addBlock p0aPyp -123.741977 64233
+removeBlock sxroeZqayAYT
+removeEarliestBlock
+addBlock Q8 81.545490 98347
+getBlock wf
+removeBlock 3oPUqSoJt
+getEarliestBlock
+addBlock 9xu 106.005074 54586
+addBlock j -61.892384 17437
+addBlock BF5d -9.033901 52216
+addBlock MdqPl 1.250769 2511
+addBlock gj -35.298459 25276
+addBlock oIUSG 240.069890 89828
+updateBlock SciH 26.457776
+removeEarliestBlock
+updateBlock 7GIL22n8 -72.181156
+addBlock PCLUxH 113.562381 4343
+removeEarliestBlock
+addBlock Os 0.406823 8931
+getEarliestBlock
+removeBlock ihvMl3
+removeEarliestBlock
+addBlock NBKFKppR 32.972537 88790
+addBlock OTmsWc 211.454767 84912
+getBlock jnsqqGE4
+removeBlock Y5mtzeYO
+removeEarliestBlock
+addBlock 6u1uMHAG9kmM 90.965421 30267
+addBlock QESIhqSV4dPy 89.734615 62974
+updateBlock k7E -108.898728
+removeBlock zzN5UXgOx3yB
+updateEarliestBlock 79.506893
+addBlock sRYbTpLH7 192.830764 57753
+addBlock Et3ZQm -69.036054 78691
+addBlock 5RdTRbJpCrFE -58.943664 80106
+addBlock QSoZpOAj9xJcx 135.280981 45128
+updateEarliestBlock -77.580291
+addBlock BWyz2 159.962712 47988
+getBlock vb
+addBlock NamTsuiXSQ -86.494867 99668
+addBlock zzN5UXgOx3yB -89.856129 66781
+addBlock e5nidHaEPuV -97.930723 30759
+updateEarliestBlock 39.801689
+addBlock lT -76.421612 29175
+removeBlock 5sm4KNlf85i
+removeEarliestBlock
+removeEarliestBlock
+addBlock RTMHzVYHoor 65.850714 54529
+removeEarliestBlock
+addBlock TqQe4iUQ -35.971054 4736
+removeEarliestBlock
+addBlock m -136.515992 77249
+addBlock TCKmbqi 4.504052 66724
+addBlock lqBaaL9Gld 55.371577 29298
+addBlock veu7SH3edmUj -103.403026 2347
+updateEarliestBlock -71.634036
+removeBlock hdP
+updateBlock 5d 46.666430
+getBlock G
+removeEarliestBlock
+addBlock cHnG97hsc -130.401947 4425
+removeBlock l09xzqDmX8cne
+getEarliestBlock
+removeBlock UBv5AqSu
+removeBlock W1eqLI
+addBlock R0kCTU 102.607848 65281
+addBlock aXZqsAYPVeQq 20.541838 88968
+getBlock PWXSdB2X6VQ
+updateBlock fhWU31D 75.312646
+addBlock Nyx 50.210334 16307
+getEarliestBlock
+addBlock qjj -23.069555 60679
+removeEarliestBlock
+getEarliestBlock
+removeEarliestBlock
+addBlock lso 183.543419 30375
+addBlock 1ruaZ -15.835252 1832
+addBlock t6hnOHYFVt -165.952065 54749
+removeEarliestBlock
+updateEarliestBlock 134.609539
+addBlock 2KyipP25AWf 1.799777 28191
+getBlock Txxohc
+removeEarliestBlock
+removeBlock OCcT4E9S
+addBlock 0TnIfIh8 -31.141655 29382
+addBlock i5RSEvXlu -133.567629 11049
+updateBlock 2qc -89.755326
+addBlock RxWsFU -157.453577 23216
+getEarliestBlock
+updateBlock L2 -172.359633
+addBlock hdP -63.955774 21169
+removeEarliestBlock
+addBlock GFem70SPLQNv 33.685459 15249
+getBlock 3XL0fUKu
+getBlock n4nrH
+updateBlock 2LjeJ -25.014474
+getBlock FbSwDnGZZ
+updateEarliestBlock 79.725261
+addBlock 9ULlVMn 164.863956 1402
+addBlock r346xVJvT -67.639336 2235
+addBlock Q6nH3bu3 42.866224 93896
+addBlock Dfkjk 128.478729 32884
+addBlock Xt4i8 -53.827399 7445
+addBlock mvwPna6U -1.977093 42581
+removeBlock xyIc4v6IGW2
+getBlock 1VLUJGLQ4t
+addBlock j0p 90.799162 2658
+removeBlock frlt0
+removeEarliestBlock
+removeEarliestBlock
+removeEarliestBlock
+updateBlock d3DyYp0f -21.248094
+updateEarliestBlock 77.277927
+removeEarliestBlock
+addBlock ziRmEGlb0 11.912574 36851
+addBlock aKplS -47.745233 1784
+addBlock 2bY3tp79Yf -13.866549 42671
+addBlock FzYWMV 13.027987 71678
+removeBlock hdP
+updateEarliestBlock -181.477867
+addBlock kf8D7 -89.091990 30422
+addBlock jhYOTKIveikN 64.888848 32490
+addBlock paJdYWE 21.962012 85798
+updateBlock Mu0e4mVlq 76.861198
+getEarliestBlock
+getBlock 4HksEn8Xbs
+addBlock NvgcC3mhI 37.401473 11109
+addBlock t3DrT 79.051783 70936
+addBlock UZf9Z 68.091217 74844
+addBlock dxyTiScyiN -24.447934 2225
+getEarliestBlock
+addBlock zB1 -146.026165 32648
+removeEarliestBlock
+getBlock T94OPWZ67
+updateEarliestBlock -212.723683
+addBlock pee135565pISh -75.740722 7106
+addBlock jscPu 8.580745 57730
+getBlock Q3SoVbo3X6M
+addBlock bMbCfFfHuv -213.575898 69462
+updateBlock jscPu 104.095186
+addBlock hYVAPmQZu6 -42.512815 88387
+addBlock 2VwL4 99.428176 9897
+getEarliestBlock
+addBlock lGXCn98Ms -144.162536 297
+addBlock IX8z 35.576270 8019
+addBlock amPXHU2iopTo -277.450165 89240
+removeEarliestBlock
+addBlock vHNMne9MzE 24.878052 72255
+removeEarliestBlock
+getBlock O47Mtmm
+addBlock skhx -172.050944 35783
+getEarliestBlock
+updateEarliestBlock -146.285558
+addBlock Q 25.421573 8590
+removeEarliestBlock
+updateEarliestBlock -68.572931
+updateEarliestBlock 6.629291
+addBlock MCwNi 195.902664 34410
+addBlock 5DFvPE 81.065098 19089
+removeBlock jX6I11cUEUXKV
+addBlock f2MBf4Z2PjqBC 23.025839 3813
+updateBlock L2 -9.506013
+updateEarliestBlock -100.795725
+updateEarliestBlock -96.339775
+addBlock GpQNz9 -4.371646 25493
+removeBlock 82hKzrXGmkN
+updateBlock bYl4uZg8 -49.212267
+getEarliestBlock
+addBlock gVH4 71.834848 60784
+getBlock FP
+updateBlock Nyx -117.108075
+addBlock D0S8B9s4B5 -78.418130 71944
+updateBlock BblEaXIWXyV -83.162751
+addBlock cvrJf1H 31.437555 80082
+addBlock VYx7gK 39.799958 15167
+updateBlock a4I 137.405414
+updateEarliestBlock 69.628167
+addBlock 5tlkGP0 114.817191 8790
+addBlock vTQzSKhVr 128.581417 32981
+getBlock 4G1AN
+updateEarliestBlock -59.095182
+getBlock stbxHD
+addBlock flG0d8cSfv -32.821069 1986
+getBlock 6s
+removeBlock 5d3RHpcWlr5
+addBlock OH973T -19.161789 21147
+updateEarliestBlock -125.261788
+updateBlock YZhn0ZwnWZH -114.576366
+updateBlock a53Fg 70.726081
+getEarliestBlock
+updateBlock V0ZhQSCAz4 -23.064299
+getEarliestBlock
+removeBlock 2HM7asr992r
+updateBlock 6UjnkWZitmMku 78.079557
+getEarliestBlock
+addBlock DQPu 54.562209 18007
+removeEarliestBlock
+updateEarliestBlock -71.478163
+addBlock sDcfi1818Gch -42.395918 71346
+updateBlock EPj9PfLEMuk 147.046992
+addBlock efCQOepZ 49.444601 91365
+removeBlock jlcRzViem
+addBlock Bp7rRZi 185.809982 45758
+addBlock I 206.474034 52704
+addBlock OgxgIkxtIB -42.206597 31128
+addBlock 6cF -2.495816 39529
+addBlock RA2Tk -96.768869 89519
+addBlock AOV27tzjZ -7.849596 50892
+addBlock z8dt0 -10.254737 11912
+addBlock UVwr8a48rT -63.899671 9912
+addBlock yN8Y4ozm 31.685927 52908
+getBlock q
+addBlock 3PT6 -171.805273 83996
+addBlock lVXegEdI 73.680293 2768
+addBlock nhTW -43.455881 77910
+getEarliestBlock
+updateBlock 96qTqSS730ES 44.958715
+removeBlock Yr70Un
+addBlock Hn1 66.794542 59743
+getBlock Zid6gUQt
+removeBlock qM7J4csK76Fg
+removeEarliestBlock
+removeBlock HisolkxhdZ
+addBlock Dxz5B -237.424522 67828
+addBlock alDOuRI 215.000387 9735
+removeEarliestBlock
+removeBlock XSIdOOsEB7Cqy
+addBlock VO8 86.484605 2637
+addBlock 8e 127.221626 84761
+updateBlock A39muPDmh -66.721673
+getEarliestBlock
+addBlock o6yuA8uf 130.157694 92291
+addBlock 2nnmGSrqrbEy -17.717927 18342
+getBlock i4noW
+removeEarliestBlock
+addBlock MbPj -1.515485 23616
+addBlock S56yqUuSrVA 101.162814 91948
+removeEarliestBlock
+addBlock L6r7Nlu04t0 179.890389 62319
+updateBlock vhFmb7YG9J72 78.158147
+removeBlock Q
+addBlock d5TGFybp -23.508060 94537
+addBlock n9IHPoSx4c63 -34.909846 52858
+addBlock PQocBrkzWj 87.262173 84106
+addBlock vRv 80.896352 21351
+updateEarliestBlock 166.251096
+getEarliestBlock
+removeBlock Tqhim
+addBlock z3ycC 2.816424 85230
+addBlock risfy3MsUqLjh 6.712080 62726
+removeEarliestBlock
+addBlock cj0Sf -199.039440 53954
+addBlock 33FpYOrua69 -36.588366 87208
+addBlock E2eHUl -91.568005 41216
+removeBlock jU2
+addBlock Y6B4CD8C 64.644631 4670
+updateEarliestBlock 26.531526
+removeBlock QB5P
+addBlock 9vn -57.533100 82675
+updateBlock KEm7nSXVt -9.325375
+removeBlock IpVd
+addBlock ssn -75.891835 4391
+updateEarliestBlock -265.427895
+updateBlock 5d -74.468738
+getEarliestBlock
+addBlock evRPd -32.322760 20979
+updateEarliestBlock -36.352996
+removeEarliestBlock
+getEarliestBlock
+addBlock C 68.964298 77417
+addBlock Di10Zp8JFOiG7 -91.828826 584
+removeEarliestBlock
+getBlock bP9lSsRT7T1cB
+getBlock mvwPna6U
+getEarliestBlock
+getEarliestBlock
+updateBlock HSL0ZnjZxQUE -88.351186
+updateEarliestBlock -78.252613
+removeEarliestBlock
+addBlock uGHoYu4RVbA 23.168387 77273
+updateEarliestBlock -52.705165
+addBlock PJnh5g6nHGVC 17.351987 42033
+addBlock DH3o3JqzB46dW 172.825225 72037
+removeBlock 2VwL4
+addBlock 8xmHDd9eihutc -109.159344 98065
+getBlock y
+updateEarliestBlock 16.861935
+updateEarliestBlock -18.799689
+addBlock 6w3G7V9Q 106.336030 26006
+addBlock nCr3 -92.254787 93142
+removeBlock To
+addBlock T96wBDR8LHT 12.592472 89822
+getEarliestBlock
+addBlock h0sDHk -14.113639 74471
+addBlock aHbgTJAx 69.062818 9007
+removeBlock NotlS6JQ
+getEarliestBlock
+addBlock hd5l8hRwEDBpQ 19.044947 13096
+addBlock JHn 56.680509 22442
+addBlock hXyACk4AGapt -110.632732 26832
+addBlock 3nYu6 -19.522174 85813
+addBlock F3 -144.776980 69823
+removeBlock amFsz
+updateBlock jn4 39.504074
+addBlock 0Rs4QcT -30.585912 34707
+addBlock E 167.980044 68529
+addBlock zYzrW9P 156.251781 80976
+updateBlock i4 -25.919446
+addBlock EY 56.036113 66201
+updateBlock amPXHU2iopTo 41.904501
+addBlock N0LM31oyfd -11.861620 10366
+addBlock Lo9gs3B402Th 30.787309 934
+getEarliestBlock
+updateEarliestBlock -87.254194
+addBlock iWfA 67.630740 61794
+removeBlock Q3zkxZ555
+addBlock 4ihKwDiRJV 137.072868 3701
+removeBlock Dfkjk
+removeBlock jyy
+getEarliestBlock
+removeBlock bhrUoAi6uPY
+updateBlock 7 55.219029
+getBlock 85nDhoo
+getEarliestBlock
+addBlock Tu4YjHdNn327 -92.546801 44164
+updateEarliestBlock 184.492765
+getBlock 2qc
+addBlock PYPclsM9G -128.507758 18723
+removeBlock zzN5UXgOx3yB
+removeEarliestBlock
+addBlock WVt -15.952875 19703
+addBlock R4VsjDiUBJpAE -145.668044 44339
+updateBlock oH 47.944010
+updateBlock cj0Sf -101.388047
+removeEarliestBlock
+addBlock GQAazm7wmaYtv 19.257144 75035
+addBlock GoTl2fKN2kx 38.855612 20330
+getEarliestBlock
+addBlock bIRKyokbQpwSr -61.421137 77827
+addBlock l8sa4fR -38.832878 63029
+removeEarliestBlock
+addBlock U9nuWQ9 -16.103680 25134
+updateBlock WqNxCSyFA3 -137.363161
+addBlock N5Gios 176.443570 37067
+addBlock umBPmn 0.186592 14999
+addBlock WvF962CCY -58.494233 9805
+addBlock 94kV915T 25.643086 70424
+getEarliestBlock
+getEarliestBlock
+getEarliestBlock
+addBlock 59ceKnt -195.000957 34969
+addBlock pvPka6 -36.636132 79062
+addBlock B5ykdJ -3.874070 35939
+addBlock zlAqrHeQW5KW9 -277.427501 6925
+getBlock flG0d8cSfv
+updateBlock 4LTpaQijxb -42.993793
+updateBlock r346xVJvT 12.334233
+addBlock FLf -26.064089 65383
+updateBlock Jyy3wU8sq0 -57.221204
+getBlock i4
+updateBlock zkSpJ -44.592405
+addBlock TaB7F 111.808893 46858
+getEarliestBlock
+updateBlock PYPclsM9G -58.951477
+getEarliestBlock
+addBlock gQaW2 144.285124 58524
+addBlock 4hcvsQf4En9M 81.915344 8290
+addBlock QebNlN7pEqPjZ 16.825347 1546
+addBlock sOUCTQXt 38.652935 80426
+removeEarliestBlock
+updateEarliestBlock 36.477835
+addBlock RNGjHvRqhYM 119.237486 40671
+removeEarliestBlock
+removeBlock vTQzSKhVr
+getEarliestBlock
+getBlock fYkL4D
+addBlock ST928fOGf 58.525260 76054
+updateEarliestBlock -15.248533
+updateEarliestBlock 66.752519
+addBlock k050zVwvbr 27.800121 58413
+removeEarliestBlock
+updateEarliestBlock -41.379807
+getBlock QebNlN7pEqPjZ
+removeEarliestBlock
+addBlock pZOECBLAFoq -75.144367 73845
+updateEarliestBlock 104.872397
+addBlock 0XxqQUxg -11.972749 45852
+updateEarliestBlock -36.441406
+addBlock YqQgCl 106.455750 11769
+addBlock bMDiT0i -173.075330 6173
+addBlock BiXf81boPsChR -23.532151 16643
+addBlock Gk0OuvDNiY 38.388352 37443
+getBlock tCPUAykgjVf
+getBlock AvsD
+removeBlock hNBiMTBdJWJ
+removeEarliestBlock
+addBlock roPt45gTztnOB -183.012521 2234
+getEarliestBlock
+addBlock PWICb -93.662718 30233
+removeEarliestBlock
+addBlock 8fWAOVGvFT8 48.695755 70188
+updateEarliestBlock 72.493510
+addBlock PgVwH4ub 73.151362 2398
+addBlock W -36.167938 18196
+updateEarliestBlock -83.606903
+removeEarliestBlock
+updateEarliestBlock 114.292909
+addBlock 1 41.363116 80448
+addBlock fuo -156.872245 36202
+getBlock AOV27tzjZ
+updateEarliestBlock -103.792485
+addBlock vHrJK1C47Cc 16.876740 55530
+removeBlock HbB2sFrW
+addBlock A0mmS5DXWJh -245.457420 5386
+addBlock cw66Fnzz -77.313001 3419
+updateBlock ClWE36Uoz 86.140795
+getEarliestBlock
+addBlock p6mp25PM0 98.294396 9775
+updateBlock eogEOSoVY 132.754834
+addBlock sa 23.649867 89022
+getBlock xOswGWCM89
+getEarliestBlock
+getBlock 3PT6
+removeEarliestBlock
+updateEarliestBlock 7.258483
+addBlock bsn3W 42.344219 5598
+getBlock hHBqguutgMkF
+addBlock ktrsNrEw 104.983063 19848
+removeBlock cfDo
+addBlock 82hKzrXGmkN 36.345397 61729
+addBlock dlbK2aRCpJ -118.763344 19727
+getBlock tebtUcxQSU
+updateEarliestBlock -96.841838
+getEarliestBlock
+addBlock tK8oP -177.485526 357
+addBlock STt5QV -124.800004 3444
+addBlock TbpOaCfr -0.012190 68861
+addBlock fZJ 45.937095 63822
+addBlock Mt5RkZpyePBSw 182.510277 3385
+removeEarliestBlock
+updateEarliestBlock -178.624580
+addBlock uoTOHC 124.503902 79548
+addBlock Csl -5.356140 39308
+addBlock Ca6LFFyd 44.156899 53644
+updateEarliestBlock 34.105991
+updateEarliestBlock -103.076021
+getBlock sJn
+removeEarliestBlock
+addBlock zHy5V7eZu0gf7 -18.078197 45182
+addBlock p3BE8LEWiiek9 44.918222 31013
+addBlock Ygmk1 -62.554376 87984
+addBlock FRQ3rc 99.013281 7923
+removeEarliestBlock
+updateBlock MyZq 95.781466
+removeBlock rDBozjAldX2a
+addBlock S3UcQQJSV29jO 1.741003 88935
+removeEarliestBlock
+getEarliestBlock
+addBlock l9Yh0q -106.534642 25555
+addBlock FKb 65.739179 10018
+addBlock H60H8ItE7AT -28.330940 97637
+updateEarliestBlock -125.219616
+removeEarliestBlock
+getBlock i4noW
+getEarliestBlock
+removeBlock QtDPaCa7RJoWc
+removeBlock 3XL0fUKu
+addBlock ihvMl3 -11.929800 87716
+removeEarliestBlock
+addBlock bi6iL -13.492724 28210
+getEarliestBlock
+updateBlock c5dFWKs0D6t6 -145.622353
+removeBlock 2n7PD
+addBlock A3Ym5SHp 93.568653 8668
+addBlock HHrK9UlVaDDt 44.743969 41995
+removeEarliestBlock
+getEarliestBlock
+getBlock e5nidHaEPuV
+addBlock kzWrzMqRBDdkV 11.285963 54535
+updateEarliestBlock -183.677652
+addBlock FYlAQc0UcgOh -69.271634 91313
+addBlock HLQjoJie2ww 23.513396 241
+addBlock r8EnnVf -78.966832 31590
+removeBlock GNtzFrfxBwwZv
+addBlock u4JxM3 98.092033 77959
+addBlock ipkg4 -82.229757 10497
+addBlock HlxAHt6fa -116.931715 36204
+removeEarliestBlock
+addBlock iyYNsdR 0.506517 96076
+getEarliestBlock
+addBlock KrrUY6jjdkQJ -74.375892 80118
+addBlock q8aM7tiTa1e -126.672309 35385
+removeEarliestBlock
+getEarliestBlock
+addBlock m7wZWEHshIh -88.473151 41976
+removeEarliestBlock
+removeBlock 6I1DT6AJD
+addBlock N1ZiCOVHPj3Mg -19.584772 55366
+addBlock xyIc4v6IGW2 117.272569 21477
+updateEarliestBlock 7.967065
+updateBlock H12vTNmE1cs3 -19.999210
+updateEarliestBlock -60.887893
+addBlock y6 -299.577098 25604
+addBlock sF1IXkkXeM1S -96.619563 22280
+addBlock AnGBOGeyqv -75.969368 6976
+updateEarliestBlock 73.164973
+addBlock a5JNjk0S2TCL 110.615029 3243
+updateEarliestBlock -9.267788
+addBlock cy0T1HQAPRn8 48.736669 52974
+addBlock AKw 119.702400 7591
+removeEarliestBlock
+removeEarliestBlock
+updateEarliestBlock 172.479593
+getEarliestBlock
+getBlock 8JAWGc6rwdq
+addBlock Ypbqt5gEoOi9 -59.786026 17815
+getBlock 96qTqSS730ES
+getBlock Txxohc
+addBlock IzPtanNw8tNT0 -16.843583 35219
+addBlock LCwQsHhr33D 48.382043 41141
+addBlock Ex -163.055662 68038
+getEarliestBlock
+updateEarliestBlock -21.881707
+removeBlock 85nDhoo
+getEarliestBlock
+removeEarliestBlock
+addBlock Dxb 0.717164 31576
+removeBlock TaB7F
+removeBlock JaJgZTX
+updateBlock t6hnOHYFVt 144.307193
+addBlock zw2PCT61YnW 103.144058 7743
+updateBlock Ci389Y 102.556690
+getEarliestBlock
+removeBlock Ex
+addBlock dVBL -8.171256 63364
+updateBlock bSj2YGsDT -92.179551
+addBlock jlcRzViem 264.686404 7344
+addBlock sesEswQ -284.633795 5397
+getEarliestBlock
+addBlock M 2.789491 91427
+addBlock z8GhT4c1Vhs0C 22.947997 8903
+removeBlock HLQjoJie2ww
+getBlock j
+getEarliestBlock
+addBlock 0wv04FkIy6W 138.932133 8743
+getBlock Wx5
+updateEarliestBlock -86.125310
+updateEarliestBlock -31.857769
+updateBlock rpaFqET -20.354185
+addBlock qEX6 -35.452082 99464
+addBlock qLF0VZAwM 15.409479 7721
+addBlock 5 -98.283839 57271
+addBlock y8dDVWww 24.554574 3245
+addBlock 8FXd9 172.048841 14490
+addBlock tCFcH9iO -88.974905 57661
+addBlock f50A 145.991794 45624
+removeEarliestBlock
+updateBlock aqJGzQGs7YdL 51.206391
+addBlock CdrwtawwPc 193.421281 46247
+updateEarliestBlock -60.459778
+getEarliestBlock
+getEarliestBlock
+getBlock KSwvOj48xisyW
+removeBlock 4yOiqRcWH6
+addBlock Kkc -129.750752 75232
+updateEarliestBlock -61.998510
+removeEarliestBlock
+removeEarliestBlock
+updateEarliestBlock 16.086449
+removeBlock R5TXRFdXG0wnu
+addBlock mJva 204.625627 32225
+addBlock 83RGw 50.681681 13002
+updateBlock B6sJEL7NVgO -67.251527
+addBlock fv2rHaO 91.252824 2146
+addBlock h6g7FVKjOV -56.217877 37930
+addBlock amFsz 0.661874 70287
+addBlock IS9tXm 66.491792 25464
+addBlock RxDV0Q2I 79.885069 86623
+addBlock 9Je0 72.891279 38460
+addBlock ddqmy7fJUGsr 100.469435 44143
+updateEarliestBlock 80.549248
+updateBlock Nyx 57.175654
+updateEarliestBlock -34.231176
+getEarliestBlock
+updateEarliestBlock -2.511927
+addBlock 21iVNafNbBL -88.124892 6614
+addBlock meuFZp 7.998006 5905
+updateEarliestBlock -235.009802
+removeEarliestBlock
+updateEarliestBlock 162.110757
+removeBlock Wy
+addBlock 3syn 167.644692 5758
+addBlock cHUiYVVsk 116.990267 77364
+getBlock 6UjnkWZitmMku
+updateBlock KOhoUj 121.957881
+addBlock 9oRZO31JmTN -83.422262 84392
+updateEarliestBlock 76.288337
+updateBlock Eat3UqEMqjTvW -144.609287
+updateBlock d6kj2yp6Sb 177.832310
+addBlock WpHGshwAKzrn 59.712896 29979
+updateEarliestBlock 36.191445
+addBlock hfUc 17.133644 99136
+addBlock 3XL0fUKu 62.070959 79642
+getEarliestBlock
+addBlock 1RlNKRx 71.810854 27532
+updateEarliestBlock -149.828006
+updateBlock FE2s 25.358551
+addBlock 1yGhnq9qKr 101.523041 12142
+removeBlock f9IokbT
+addBlock pi98JdI2ro 72.706802 13149
+updateBlock tb2 -1.406993
+addBlock ORSiiGuc344s -99.668105 48903
+removeEarliestBlock
+getBlock hsMlv0
+removeEarliestBlock
+addBlock a1P1R4qztpa 7.279240 17034
+addBlock QeHrBGVTS -175.655861 83807
+addBlock awmDJS -49.423601 43296
+addBlock qjqFgXiOu9Xuk -246.219611 9014
+getEarliestBlock
+updateBlock IX8z -64.325343
+updateEarliestBlock -148.110274
+addBlock gy 51.266391 9730
+getEarliestBlock
+getBlock MbPj
+addBlock r1eaYIr0fxv 77.606897 46205
+addBlock wmxEjDc3Ln54 46.971075 64303
+addBlock sxroeZqayAYT 13.052976 23529
+addBlock CLt -174.553839 7606
+updateEarliestBlock 18.941011
+addBlock zPwsE -44.695395 14071
+removeEarliestBlock
+removeBlock r1eaYIr0fxv
+addBlock kWpyW9Zzr -78.279704 54099
+removeBlock WUZs0uZ
+removeEarliestBlock
+getBlock Cx9KRjq3dqwP
+addBlock OUi8yx 127.018741 29591
+getBlock u6LYVv7lLTg
+removeEarliestBlock
+addBlock EbC6PbtI -4.500820 1386
+updateEarliestBlock 75.575155
+removeBlock Ygmk1
+addBlock OCNgCY -109.281306 98197
+addBlock xD 55.975822 80916
+addBlock Nmoa -99.763266 7611
+updateEarliestBlock -128.558646
+addBlock 6U 26.814661 74337
+removeBlock ux4PVeZ
+updateBlock YYsO 32.288685
+getBlock fv2rHaO
+addBlock Ppo3GqgHyQR 37.063629 30945
+removeBlock nfDoAQ
+updateBlock UwmyNlczDIza 157.999307
+addBlock AQsKyifWyBXVG 105.194205 77739
+addBlock HO 180.174023 28976
+updateEarliestBlock 56.449470
+addBlock Za5IclIiRSeV 105.457813 22419
+getBlock 3r
+addBlock wvG0F3 44.236254 76721
+addBlock JaXCBkhV 156.548400 95754
+addBlock fN6qEwJqiE 24.874522 95021
+addBlock DoTvvGc 211.828641 57482
+addBlock vp5mrK 69.270433 16522
+addBlock 6YZZNxpNYolt 70.920334 25230
+addBlock vNN -88.979815 51463
+addBlock CiZC1I6Ja -34.766267 6751
+removeBlock wvG0F3
+addBlock Sfcq 58.312089 49597
+addBlock 24sSF -105.374927 13061
+addBlock hNBiMTBdJWJ -35.495015 91598
+updateEarliestBlock -89.280082
+addBlock HfH 33.037967 62134
+removeEarliestBlock
+removeEarliestBlock
+getBlock qJ0J0E
+addBlock m0m -57.803133 31275
+addBlock 13L9cP3A4QbWn 68.035181 98758
+addBlock LZJoIl -194.406942 21906
+addBlock r6EV6HVcPODiT -8.654945 8638
+addBlock mKG1 -172.859609 43576
+addBlock nYcyu5wV -128.078580 91336
+addBlock rFedIye5GFw19 151.892840 59661
+addBlock hdP 189.438392 6353
+getBlock z
+getEarliestBlock
+removeBlock CTGDQ6yr19BZZ
+getEarliestBlock
+addBlock 3nSHCOSNuNp 231.824681 1062
+getEarliestBlock
+addBlock 1H0Rk -27.543200 88627
+removeBlock DnWgx1dt
+addBlock zjSA3mwrKol 100.994675 38349
+updateBlock d6kj2yp6Sb 25.229681
+updateEarliestBlock 57.774171
+addBlock b7xUKTbdr 185.522199 7516
+addBlock t6wYiswSAPJA -184.580075 43531
+addBlock sJFwyr11askR -129.633720 46981
+addBlock iMXaIN 68.584504 13490
+getBlock kzWrzMqRBDdkV
+updateBlock TNPp 156.269237
+updateBlock GbUD -1.231203
+getEarliestBlock
+removeEarliestBlock
+removeEarliestBlock
+addBlock iftWPNz -41.990255 26196
+addBlock owa -80.608950 69569
+addBlock XhihZ5 -104.751104 25026
+updateEarliestBlock -269.371606
+addBlock OzvsRo5 149.175941 84258
+addBlock IC 16.948646 12333
+updateEarliestBlock 218.418795
+updateEarliestBlock -65.434696
+addBlock R1kGSpssjpmc -4.067381 1503
+addBlock TbE4GC 238.215819 76142
+addBlock Gf7C0Y 51.404350 20881
+updateEarliestBlock 20.168542
+getEarliestBlock
+removeEarliestBlock
+updateEarliestBlock 74.687494
+removeEarliestBlock
+getBlock l8sa4fR
+getEarliestBlock
+getBlock 9oRZO31JmTN
+removeEarliestBlock
+removeEarliestBlock
+removeBlock UHMhTM1dqgVF
+addBlock OCcT4E9S -109.112033 86229
+addBlock 4Wli2kORTNj 116.077049 85944
+addBlock 6sHRglFWPRc 29.063687 89449
+addBlock X5CMUVik9Fek -101.334973 44997
+getEarliestBlock
+removeBlock 3rBvPA
+updateEarliestBlock -21.824593
+addBlock rKbSG 144.015024 80253
+addBlock 3L -51.751873 8448
+addBlock qrklMEs9 -47.259761 7971
+updateEarliestBlock 33.886562
+removeBlock Z
+removeBlock Ti
+addBlock qc -18.937762 14589
+getBlock Gz
+getEarliestBlock
+addBlock 2fQzI7AJlc 82.830415 22084
+getBlock dRw6SrWckr3
+removeEarliestBlock
+removeEarliestBlock
+addBlock srBFQgy -46.340055 62187
+getEarliestBlock
+addBlock GzBs -61.826000 1862
+removeEarliestBlock
+addBlock KLjNqOUQB1 114.114885 26550
+addBlock edDpD 13.551905 28640
+updateBlock i4 24.685106
+updateEarliestBlock 18.907809
+removeEarliestBlock
+addBlock eAheTx 124.085612 13496
+getEarliestBlock
+addBlock NotlS6JQ -10.781960 84821
+removeEarliestBlock
+addBlock 6KwouwoquXhb 41.761172 82712
+addBlock nCSAvZGIG -135.401482 33133
+updateEarliestBlock 140.407398
+getBlock DGRK6
+updateEarliestBlock -111.132426
+removeEarliestBlock
+updateBlock ZxB -75.284756
+getBlock QebNlN7pEqPjZ
+removeBlock zaHok0AfJXo
+removeBlock TbpOaCfr
+addBlock P8gmvNX -19.958377 6138
+updateEarliestBlock 125.729395
+removeEarliestBlock
+addBlock NINZj17639rh -109.650326 8571
+removeEarliestBlock
+addBlock bScUBJGdfo -48.353882 54257
+addBlock 25MKo -179.447354 11111
+removeBlock EY
+getBlock RoCZVft
+addBlock kkIYaI -40.016390 9126
+updateBlock dH54tktuBL1EQ -26.459508
+removeEarliestBlock
+getEarliestBlock
+addBlock iRC9RmaKp2qVF -9.538127 62729
+addBlock DYeKbOi -30.045113 8939
+updateEarliestBlock -53.619962
+addBlock YcEeKCOdNEygv -112.798498 51092
+addBlock 5fWSpK 3.592644 611
+removeEarliestBlock
+addBlock GPLo1x7jIJ6 17.110775 96119
+addBlock uf 1.443877 9036
+addBlock kw9S4W 87.109141 77082
+updateEarliestBlock -153.464592
+getEarliestBlock
+addBlock tiFj6Hv -21.699531 3326
+updateBlock vRv -167.540950
+addBlock YXCl -59.603775 32712
+getBlock RxWsFU
+addBlock SY7ALzgCba -72.937684 41368
+getBlock z3ycC
+getEarliestBlock
+addBlock Qzal4VZ -18.154365 30747
+removeEarliestBlock
+removeBlock i4noW
+removeBlock Bo49tUo7oz
+addBlock ialdE0 -11.350927 24658
+addBlock HisolkxhdZ -122.280719 43329
+updateBlock iwaMQ2iqM4nr -146.320083
+addBlock MXVHtQEA90p 130.371629 84964
+addBlock MqUiefnsD0vf 26.839977 55460
+removeEarliestBlock
+addBlock JoqA5DQQ 55.738205 1284
+addBlock FWyHiZzRPNYXT -35.338920 14324
+addBlock SeIe3zy6pNf -87.081618 90002
+getEarliestBlock
+updateEarliestBlock -22.397194
+updateBlock l0X -93.763670
+updateBlock wVSrMyGpxfj 124.388997
+updateEarliestBlock -107.728956
+addBlock R4wgJsP -65.548548 30642
+addBlock TaB7F 158.757113 43847
+updateEarliestBlock 126.951432
+updateBlock vxeyZfXUhIPHC 90.897718
+updateEarliestBlock 12.270453
+removeEarliestBlock
+addBlock A1EmzV -24.649414 75786
+updateBlock dRNZLscdsT0K -44.680897
+removeBlock MyZq
+addBlock 6Y7vqrUeMF1 63.506283 96315
+addBlock YFHgLaZK8343b 45.063248 75055
+removeBlock FzYWMV
+getEarliestBlock
+addBlock 1G3VQb3uEFB 135.294795 67805
+addBlock egoEQuS 4.105387 90972
+addBlock Sfo 132.611357 6341
+updateEarliestBlock 128.408360
+getBlock RA2Tk
+updateBlock tkZLjnYNnU2 121.514292
+updateBlock lqBaaL9Gld 85.643442
+updateBlock Eat3UqEMqjTvW 78.471727
+addBlock R6T 115.060901 67304
+updateBlock h6g7FVKjOV 153.470838
+addBlock 3cmDXizPH -192.414104 42422
+updateBlock aKmK6Xnn 57.827681
+updateEarliestBlock 7.054311
+addBlock 9N47DgDzH -57.040933 683
+addBlock Apu5 -147.179706 86738
+removeBlock a
+removeBlock ewNqU21
+addBlock pp78uzb 122.958196 95095
+addBlock beO6Qea7Fne -200.436815 52383
+updateEarliestBlock 31.349317
+addBlock MbWDxFNZI 101.695947 44416
+addBlock evPGBiXQiXrP 20.104882 93375
+addBlock s8zxoFq -146.188756 51927
+updateEarliestBlock 75.053096
+removeBlock TsKWWeZ
+getEarliestBlock
+getBlock r
+addBlock 66Qa5Tv3yi -34.381331 63784
+addBlock rNT6pP 7.114401 52829
+updateEarliestBlock 49.860325
+updateBlock 9R1B8t40c5eun -184.820537
+addBlock g4d16Yx 125.240176 43065
+addBlock ZGFtzVX -42.693149 30288
+removeEarliestBlock
+getBlock oz4Ny
+removeBlock Nyx
+updateBlock EHA7g7F 254.051170
+addBlock vTQzSKhVr -66.452919 6682
+addBlock QGTM82dEK -79.137260 43659
+addBlock FnZhi -136.110748 62913
+getEarliestBlock
+addBlock jhyEAKm -25.335963 23012
+updateBlock MwssmTAH -28.720430
+getEarliestBlock
+updateBlock GoTl2fKN2kx -43.188264
+getEarliestBlock
+getEarliestBlock
+addBlock oRm -102.729349 94121
+addBlock iOLVxlzUXu -65.383027 96298
+addBlock wXM2ka5zV -185.212537 17612
+removeEarliestBlock
+addBlock 8myjrXfkZ4E 0.335173 6224
+getEarliestBlock
+updateEarliestBlock -152.907854
+addBlock 0zNXcNYrWr 63.557489 31260
+updateEarliestBlock 74.651850
+addBlock xGL0MGELuzY -127.620063 12731
+addBlock S7 54.069909 34572
+updateEarliestBlock -81.729756
+removeEarliestBlock
+updateEarliestBlock -31.972628
+getEarliestBlock
+addBlock 9 171.784931 87880
+addBlock rAq53SZZ 131.230549 31490
+addBlock rxTNO 151.878749 2626
+addBlock 5gFSdfZ 9.801709 25569
+getBlock m9wbL0ySKaUh
+addBlock 1YBj2QhY3A3K -104.444678 46369
+addBlock zclU33et3ez 15.173056 42564
+getBlock PQocBrkzWj
+removeBlock a1P1R4qztpa
+updateEarliestBlock 118.680080
+addBlock EY -116.952238 2679
+getBlock nYPpMpBy
+removeBlock YVXN2tIIMUn
+addBlock nAnfaOwHe0TI6 18.283711 38963
+getEarliestBlock
+addBlock MOgf 134.157560 767
+getBlock ZL
+addBlock Rf -143.444457 6562
+updateEarliestBlock 46.493900
+updateEarliestBlock -66.741312
+getEarliestBlock
+addBlock DFWbyMM5 -120.992928 97688
+updateBlock BeEeLFowx19c 99.547420
+addBlock CXBpUOXBh5P -3.789899 95182
+removeBlock b7qSnAQ
+addBlock 8bEs5p 84.272206 80579
+addBlock NKVKG4kYi 27.246624 72987
+addBlock KoLEbaGy -49.298618 22255
+addBlock mnrrwMd 148.000978 19893
+updateEarliestBlock 132.449993
+addBlock l09xzqDmX8cne -45.885672 6920
+addBlock mQ94 182.720250 53332
+removeEarliestBlock
+removeEarliestBlock
+getBlock DFWbyMM5
+addBlock 5GRcR -37.167811 11060
+addBlock WAXZiV1GX 241.688880 224
+addBlock L2Wd 117.893084 3156
+updateBlock n4nrH -82.194636
+addBlock 7dKU -121.313009 1034
+removeBlock YFHgLaZK8343b
+addBlock KiuC 241.245671 47297
+addBlock iTq -53.451150 16423
+removeEarliestBlock
+addBlock Qu -17.330168 48430
+addBlock 37wNr3vHB -93.171102 49165
+getEarliestBlock
+updateEarliestBlock 110.965942
+addBlock YALHG93PO9N 182.833343 3898
+getBlock ww4jgiaJ6R
+removeEarliestBlock
+updateEarliestBlock 159.560488
+addBlock Krkc7i 106.126521 64104
+addBlock Tqhim 79.096720 41475
+addBlock dRr3z5B -101.780049 7875
+addBlock nfDoAQ -127.308654 672
+addBlock jbfg7R5 52.231319 36991
+addBlock s7RnkjSR1UnE -6.142709 24665
+removeEarliestBlock
+addBlock B 6.466604 94998
+getEarliestBlock
+addBlock U0qFf 35.786637 70940
+getEarliestBlock
+addBlock ewNqU21 -158.359928 28698
+addBlock t4Ljzi8iaCvl 57.265484 73994
+updateEarliestBlock 0.024326
+removeEarliestBlock
+updateBlock 5ylFl -33.215731
+addBlock mD2G 25.066968 20120
+addBlock v3rfMpYbWzXp 38.199372 29912
+removeEarliestBlock
+removeBlock luIzn4pyg
+removeEarliestBlock
+addBlock 4U6ZJbTEK13F -163.991528 43163
+getEarliestBlock
+updateEarliestBlock -41.683227
+removeBlock SCtWRr6
+getEarliestBlock
+getEarliestBlock
+addBlock 4G0MRsB9sZvsD -56.905206 16070
+addBlock l7TDJso2f -36.562968 62833
+getBlock hfUc
+addBlock xlM -60.264427 6966
+addBlock sY7 -193.026180 53342
+addBlock B0m1 -9.073602 18939
+addBlock VBEChJ -16.099976 77005
+updateEarliestBlock 158.229835
+addBlock gpSj3Zbse -163.223979 1491
+addBlock SF9 33.487683 11860
+getEarliestBlock
+addBlock 2ZPy -39.126537 94316
+getEarliestBlock
+removeEarliestBlock
+addBlock y2xECC -42.860674 83281
+updateEarliestBlock -2.528869
+getEarliestBlock
+addBlock Dm7 62.629662 6411
+updateEarliestBlock 150.094807
+updateEarliestBlock 66.051929
+getEarliestBlock
+addBlock FzYWMV -22.308554 14968
+addBlock cmfwMmD 1.326907 32917
+addBlock h 35.204088 81106
+removeBlock l9Yh0q
+getBlock XhihZ5
+addBlock 8nqxxB4 17.075263 6518
+getEarliestBlock
+removeEarliestBlock
+addBlock cUzTfQ0Y03z0 60.946163 76019
+addBlock IrIeftE8YJi0 -99.142438 9565
+updateEarliestBlock 13.711883
+addBlock wgXyi -22.694192 11465
+removeEarliestBlock
+getEarliestBlock
+addBlock u4fCe038 -97.910159 9093
+addBlock 1pX0 -130.075345 53529
+removeEarliestBlock
+updateEarliestBlock -240.567932
+updateBlock 65W4Vjqgro -38.658782
+removeEarliestBlock
+updateEarliestBlock 10.705258
+addBlock 2TW1 -105.955519 36162
+removeBlock QBo
+getEarliestBlock
+addBlock YX2PG 43.838700 52755
+addBlock mE -69.794802 81159
+getBlock KSwvOj48xisyW
+addBlock ZIWFkfWNOE 152.877351 67771
+updateBlock rncF -45.655615
+addBlock 8odcf93g 82.369601 90385
+updateBlock aERcoqRnyt -88.929928
+getBlock joHGRBx
+getBlock YCsgWi9Hcg
+addBlock 271MT2U5IS -20.198484 18740
+addBlock rxZeLu0xG 3.740356 45744
+addBlock 4yOiqRcWH6 77.999899 1554
+addBlock kZNfdoKR 58.035177 218
+getBlock y2xECC
+addBlock pamPmLqfT -98.834620 20449
+addBlock 5ggZ 57.717392 1162
+removeBlock 9Jusou8rv
+getEarliestBlock
+removeBlock WZvziJCUb
+removeBlock UNG
+updateEarliestBlock 22.493724
+updateEarliestBlock -99.497329
+removeEarliestBlock
+addBlock kaNg5RDb9 56.711283 38014
+getEarliestBlock
+updateEarliestBlock 71.637000
+addBlock XNZyF -22.917846 72481
+addBlock JfF 57.162928 1312
+removeBlock 0Rs4QcT
+addBlock 1ocsWd 133.633638 97750
+removeBlock CdrwtawwPc
+removeBlock sdGRtRlls4C
+addBlock nKG3qaYHgxFA -60.390138 90075
+addBlock LrkM2pqPAGAh -81.204778 39750
+updateBlock PjVJtP8Uwup -28.272237
+getBlock Wx5
+updateBlock ReH4 -54.432910
+getEarliestBlock
+addBlock gD 41.289684 3614
+getBlock P8gmvNX
+addBlock 01yy5OY1B4 -48.955619 52242
+addBlock YFzfd8BT 183.340262 88232
+updateEarliestBlock -56.794387
+addBlock bNI2 -30.449325 57122
+addBlock 1JKqiyt 128.326799 93397
+addBlock HVpG5VpqG0D 20.202730 48503
+removeBlock sF1IXkkXeM1S
+getEarliestBlock
+getBlock C9Eny16SxWcqK
+addBlock iYe -101.987117 79658
+addBlock cGQ 95.839028 32937
+addBlock 1O -189.350129 2015
+addBlock 62EOtiBR -15.543930 73450
+addBlock sVtQsYAqP -46.654017 45796
+addBlock 2b2Z3VrtsCMo -57.302225 67398
+getEarliestBlock
+addBlock Uq 184.609539 3980
+getEarliestBlock
+addBlock wvG0F3 36.325232 41080
+getBlock CXhy6
+getBlock wmxEjDc3Ln54
+addBlock Hx -106.421037 25052
+addBlock JlShJ3VAaFLC -113.624958 53616
+updateBlock qjj 133.898610
+getEarliestBlock
+removeBlock MLS1Bf
+updateEarliestBlock -45.081812
+updateBlock L2 106.873433
+getBlock vTQzSKhVr
+removeBlock 2FQ7L
+addBlock nqvGV1wwDR -33.071355 47398
+addBlock rmV1 -111.395529 95634
+addBlock Q3zkxZ555 99.461349 87352
+removeEarliestBlock
+removeBlock 43n
+addBlock IZe 36.040552 43718
+addBlock Wo 158.638716 6667
+addBlock XNYa422wsQSVw 76.015416 81265
+getBlock YohoUFp2RAyf
+removeBlock 47S7
+getEarliestBlock
+getBlock Iyp4
+getEarliestBlock
+getBlock VATd5eUj8C
+addBlock JtiSHNS -113.145722 81775
+addBlock KFYD6rbq5 48.651502 88653
+addBlock epTCg5BXZWnG -94.700898 91958
+addBlock K0Pb 111.396648 50901
+addBlock QAEcyI 72.019797 84232
+removeEarliestBlock
+addBlock zzPZxjXIUu 52.247284 95247
+updateEarliestBlock 211.099463
+updateEarliestBlock 11.005244
+addBlock x2rUuS 13.892076 48839
+updateEarliestBlock 149.536938
+addBlock Veh167Fc 164.834239 89982
+getBlock 9vn
+updateBlock EqHRnT -101.505790
+updateBlock Sfo 29.584530
+updateEarliestBlock 22.402372
+updateEarliestBlock 84.712497
+addBlock MtudtuI1g -10.521223 91096
+addBlock GJIZVZlVF0 -2.241555 1509
+addBlock 2FFNZQXAvxsw -62.254215 96968
+removeBlock Vmc7kHQxOGD
+addBlock r1eaYIr0fxv 34.090980 87750
+addBlock Cjhb 155.282944 62290
+getEarliestBlock
+addBlock qeKwl 40.694455 51121
+getBlock pZOECBLAFoq
+addBlock 8Wj -33.301609 73995
+addBlock vVUpGBRR6M 78.667033 84303
+addBlock UBv5AqSu 122.420983 23544
+addBlock 6YVRsbL -11.830796 14068
+getBlock FnZhi
+updateBlock mD2G -28.209789
+getBlock mQ94
+removeBlock 21iVNafNbBL
+addBlock ktol -4.330768 76520
+addBlock v -63.210401 44348
+updateBlock m7wZWEHshIh -54.713063
+removeEarliestBlock
+getBlock awmDJS
+updateEarliestBlock 52.032720
+addBlock 9h1 -100.802972 9487
+addBlock zaHok0AfJXo -225.526122 44925
+addBlock tz2A4PCgd3Bx 67.429412 23112
+updateBlock iXQrmUHt2U 24.793551
+removeEarliestBlock
+addBlock Zk9hskfOeM2t2 -131.227704 63318
+removeBlock Za5IclIiRSeV
+getBlock Zk9hskfOeM2t2
+removeBlock tiFj6Hv
+addBlock vd -52.556822 30192
+addBlock QAwEpDndZL 172.892964 4102
+removeBlock uX6WZ
+updateBlock STt5QV 106.648496
+updateBlock KSwvOj48xisyW 39.364327
+updateBlock nKG3qaYHgxFA 159.497021
+getEarliestBlock
+getEarliestBlock
+addBlock y25N -44.439170 97241
+addBlock JABm7VWwP0n 147.333284 8167
+updateEarliestBlock 18.247119
+removeBlock 4
+updateEarliestBlock 11.323009
+addBlock lM0tdpv 0.065120 21622
+addBlock kd1dqDF41 17.112529 27837
+getEarliestBlock
+updateBlock Py1pa07R2Cd -25.978430
+addBlock Bo49tUo7oz -65.294304 61597
+getBlock UZf9Z
+addBlock jAasnI 250.569606 15055
+updateBlock vTQzSKhVr 123.999273
+addBlock nhSRlsP4 -31.443610 1636
+updateBlock t4Ljzi8iaCvl 37.308773
+addBlock iExvfjPsgW0m 56.951282 83152
+addBlock 6ZPxSkWJ -62.881623 94219
+removeEarliestBlock
+addBlock qY9zj 28.646238 72324
+addBlock zsPI -123.588260 42206
+getBlock O5nW
+getEarliestBlock
+addBlock fuxx 63.700233 57199
+addBlock 7YrZRoiqaREsI -32.611093 87627
+addBlock CTGDQ6yr19BZZ 68.857582 22824
+updateEarliestBlock -97.032097
+addBlock 2HM7asr992r 16.377151 48125
+updateEarliestBlock -29.431407
+addBlock 99ZJIfMD 143.237115 67258
+updateEarliestBlock 27.955356
+addBlock qlpEdjildd 42.658091 36695
+updateEarliestBlock -76.432476
+addBlock d8ZqEmqFLgO 162.103075 57048
+updateEarliestBlock -25.647148
+removeEarliestBlock
+addBlock r6b5h 9.478761 37876
+addBlock EUn6hF7HUz19P -27.941330 67518
+updateEarliestBlock 74.696785
+addBlock WxeNnwG9BQNS 9.468289 44719
+removeEarliestBlock
+removeBlock R6NfbY9h
+addBlock srWE05 104.602968 22960
+updateBlock q 95.195502
+addBlock KVD5yPErJ7Ztw 94.078144 67378
+addBlock YG 99.503974 6636
+getEarliestBlock
+updateBlock OUYAs1Q8mml 54.174257
+addBlock SCsIE6blNtr -40.249093 10588
+addBlock l -41.696320 2420
+addBlock aNoSf -87.784269 55211
+removeEarliestBlock
+updateBlock Hg -78.516585
+addBlock ORlu6aHqfM11 -41.479914 16154
+addBlock PfQNh1bmP -72.045662 15000
+addBlock FZtAy 38.357117 26466
+addBlock wm6ruOU83g -66.611521 86103
+addBlock RtnAMmw6pCB6 -116.171956 21209
+removeBlock R0kCTU
+getBlock EKqBMYr
+removeBlock AHiY6zlv3iA
+removeBlock z8dt0
+addBlock vsGmRnMQus2mq -187.632019 21054
+getBlock Zc
+addBlock tgp3TN5AP7rU 99.735338 8817
+addBlock Ivhq 15.970202 37066
+removeEarliestBlock
+removeEarliestBlock
+addBlock 50S 20.087130 36168
+addBlock LBm7eehCsSXmo 74.754342 11632
+addBlock pY -71.441126 86540
+updateEarliestBlock 223.934346
+addBlock RgTEgJ -46.240624 91815
+addBlock RoqzInd3boH1 13.976384 23191
+getBlock IlY91P12dY
+addBlock dL 94.891334 63483
+getEarliestBlock
+addBlock YV5q1H6Z 103.978328 52517
+addBlock btz3Fy -74.959296 38948
+addBlock DkmF6u4hpin -67.408282 75643
+removeBlock joHGRBx
+updateBlock er -83.368389
+getBlock gD
+addBlock 8 86.216236 22019
+removeEarliestBlock
+getBlock A0mmS5DXWJh
+addBlock tMKUNxHm 43.774983 44032
+getEarliestBlock
+addBlock Z2DbRti86 14.119359 3623
+addBlock HBAk 1.443994 79303
+addBlock WUZs0uZ -14.851951 72025
+addBlock AtPYZ 55.255784 65371
+addBlock pw8KM 29.251516 7683
+updateEarliestBlock 88.237932
+updateBlock mjJ8b -161.309374
+addBlock vBGjDS 47.062235 57185
+addBlock zlw 247.413778 99054
+updateBlock XNZyF 106.279510
+removeBlock 68JFMUh
+updateEarliestBlock 153.108108
+addBlock tdklpHTO50JC -80.082512 79631
+addBlock ZCTODtIyMTIq 32.105540 67086
+addBlock j48t 116.838296 98458
+updateEarliestBlock 44.636462
+updateEarliestBlock -140.175773
+removeEarliestBlock
+addBlock 937Yj2zOhO5CG 134.010429 19715
+getBlock HO
+updateEarliestBlock 87.150808
+updateBlock 4hcvsQf4En9M -84.310822
+removeBlock y
+addBlock UzZh1SCLH -122.512314 95197
+addBlock A8vuzH95Hgfm6 27.026930 23895
+addBlock 6I1DT6AJD 50.776740 15609
+removeEarliestBlock
+addBlock OUDKgxpVLwJil -54.042371 29221
+getEarliestBlock
+removeBlock NRSlJ
+addBlock 1HA 24.080305 17066
+getBlock T0PYmKRJ
+addBlock kHbVTs7 -62.754558 54442
+addBlock o0eI 98.579488 67205
+addBlock VxA6TWD46LM 86.493932 49070
+getEarliestBlock
+addBlock U1wM -56.807762 43716
+addBlock VvL95hlhDRkXJ -130.700751 78143
+removeBlock EvbRO
+updateBlock RP2 21.645507
+addBlock 6Mho -16.993855 41166
+addBlock 81 59.121707 71311
+getBlock x6fqEB9j50
+addBlock Cv4icGhj 153.618047 93405
+getBlock ktrsNrEw
+getEarliestBlock
+updateEarliestBlock -237.062009
+getBlock KiuC
+addBlock LWoBPdOdapy -171.542164 95248
+addBlock RlRDxvuoSiFO 167.079167 87188
+removeBlock OQtP
+removeBlock m9wbL0ySKaUh
+getEarliestBlock
+addBlock QWju 66.222347 76750
+addBlock UaoVZB6kvl 20.076936 3187
+getEarliestBlock
+addBlock 6VPuEUi 175.750868 31501
+addBlock XSIdOOsEB7Cqy -116.331888 79706
+addBlock AgkoQi -222.189206 2499
+updateBlock yi8zgfMlUb2 4.084457
+addBlock M6E -12.243562 19068
+getEarliestBlock
+addBlock xnRk5XA -73.922986 3386
+removeEarliestBlock
+getBlock YcEeKCOdNEygv
+addBlock 43n 36.169345 39320
+addBlock mJIbqdv -209.775238 49002
+addBlock Qga7Zn5y 27.166526 7836
+addBlock j4hTa -58.058736 69327
+updateEarliestBlock -89.003871
+removeBlock yPE58I3nql9x
+addBlock nPAikX 53.067844 6328
+addBlock GjmpSyalH1 -149.534113 34774
+addBlock V8AR9JDP3APt -69.017053 53980
+updateEarliestBlock 167.501458
+addBlock 4 104.254534 68224
+addBlock DDZnQXgpx6 11.253787 55402
+addBlock uBk 47.715324 3375
+addBlock W0458 4.639673 24853
+getEarliestBlock
+removeBlock S3UcQQJSV29jO
+getBlock oz4Ny
+addBlock LKwpLDCI -39.716411 11100
+getBlock dFR8PM
+getBlock Sfo
+addBlock l3Tm 50.021040 13592
+getBlock pVbyi6
+addBlock a1P1R4qztpa 26.907955 59536
+addBlock a95QjEhfCnF 34.277361 10246
+removeBlock uXFEBXLnilQSZ
+addBlock ew8lQC -126.710337 21914
+getEarliestBlock
+removeEarliestBlock
+getEarliestBlock
+updateEarliestBlock 114.249355
+getEarliestBlock
+addBlock KGDRelS8wdcV 119.151125 4262
+addBlock 20 -8.927611 75128
+addBlock PhMmEjmdzav -76.653198 48673
+addBlock NgXm6cun 225.313861 56930
+addBlock yLSS 110.291204 57786
+addBlock Bg 96.797276 46875
+removeBlock Wx5
+updateEarliestBlock 55.640631
+addBlock gdN4yu1pxY 151.374639 34889
+addBlock 0sBUZM -71.795633 14504
+addBlock S7DX62 -233.070743 4455
+addBlock aYLWUP8 -110.924978 8364
+addBlock qbLlZ 43.619181 72582
+getEarliestBlock
+updateBlock 6w3G7V9Q -116.937428
+removeBlock yHFQnXAQKoDR
+addBlock 2Tslth -15.698959 845
+addBlock AbzJ54022LtY -93.835197 42036
+removeEarliestBlock
+addBlock Qeert4tqXQz -7.771029 48520
+addBlock tNToO5E2SI -86.740141 45887
+removeEarliestBlock
+updateBlock kd1dqDF41 62.053347
+addBlock ahXCdGHob7 -92.061855 72780
+removeEarliestBlock
+addBlock GNtzFrfxBwwZv -94.750686 79597
+addBlock EEcyIJK 7.288559 88008
+removeBlock GZInp96G
+addBlock 7Izpy7q3sD -102.845987 64813
+addBlock Are 42.908022 12069
+updateEarliestBlock -104.861502
+updateBlock w6D 90.935230
+addBlock UMemhy 74.578967 4210
+updateEarliestBlock 38.587403
+removeBlock Apu5
+getBlock YX2PG
+addBlock 8brQpbY -7.695913 82452
+addBlock 8qxYzTiy -79.128623 87739
+getEarliestBlock
+addBlock sq -11.974158 71563
+getEarliestBlock
+updateEarliestBlock -56.357346
+getEarliestBlock
+updateEarliestBlock 71.179019
+addBlock dtv4 -7.729412 13790
+addBlock WZvziJCUb 108.203253 5774
+updateBlock kqO6 -105.664001
+updateBlock 2zJyv4RoPW -23.842826
+updateEarliestBlock 55.402735
+addBlock 4UJ 147.250656 73097
+updateBlock 6KwouwoquXhb 53.563887
+removeBlock xlM
+addBlock C6wT7 -101.226837 586
+updateBlock xDMNjjDs 66.022942
+addBlock Hzq9cjLM -20.935035 97186
+addBlock jJseajxmy 19.454099 22177
+removeEarliestBlock
+removeEarliestBlock
+removeEarliestBlock
+addBlock 6D6bgpWF 84.555562 35940
+addBlock WGBgCf2qR -12.284756 43139
+getEarliestBlock
+getBlock OH973T
+getEarliestBlock
+updateEarliestBlock -154.223898
+addBlock luqoU 31.296373 18774
+addBlock zGftsfUS 117.684819 73674
+updateBlock dlc9M39Y 260.381808
+addBlock z5DEi8hMnqNY -133.433379 7605
+addBlock 5QeBncoXyBB -3.851726 47492
+addBlock t7gfao -43.052043 3949
+updateBlock B5XKQ54G -72.096870
+addBlock xMHErJL 31.512449 74808
+updateBlock fv2rHaO 51.709083
+addBlock faoLoGtWKTF -174.476932 1727
+removeEarliestBlock
+addBlock f7D -113.789554 36298
+getEarliestBlock
+getBlock H12vTNmE1cs3
+getEarliestBlock
+addBlock fWXUT8 134.808304 4347
+updateBlock UMemhy -178.599117
+removeEarliestBlock
+getBlock hGy
+removeBlock 1H0Rk
+addBlock qES 53.897243 61929
+updateEarliestBlock -1.339280
+getEarliestBlock
+addBlock IxdeQ -157.828366 9571
+addBlock IjIcgI2kn 83.124099 94764
+updateEarliestBlock 35.607461
+removeBlock XSIdOOsEB7Cqy
+addBlock 5jpzd -59.416100 6242
+updateBlock CKrnFp8oD 13.849983
+getEarliestBlock
+updateEarliestBlock -154.013875
+updateEarliestBlock 74.642554
+addBlock ZA 109.215819 75161
+addBlock 5fTKfN 9.478712 69644
+getBlock sjxed
+addBlock x2Rc -157.401019 27579
+addBlock QS2 -138.082082 5857
+getEarliestBlock
+addBlock Q2 120.598774 66159
+addBlock tntpzEEYd -12.942380 600
+removeBlock 6sHRglFWPRc
+addBlock PHuUtHrM9LeP -124.632756 1977
+getBlock I7MqCrvRZ
+removeBlock IxdeQ
+getEarliestBlock
+getBlock IOaIJ0j
+removeEarliestBlock
+addBlock TTTrV 102.117631 33875
+addBlock pVIJhY 7.470840 79989
+getEarliestBlock
+getEarliestBlock
+getEarliestBlock
+addBlock E5AjatBTbpb3 250.431412 25880
+addBlock Htd39FMHZ 218.278797 53114
+updateEarliestBlock -169.656528
+addBlock yaZ -97.433977 33153
+removeEarliestBlock
+addBlock Ybmf4V5 -157.556927 31124
+updateBlock uh 37.340332
+addBlock GsOml9EsA11Z6 -107.454819 22836
+removeEarliestBlock
+addBlock 6qM9EW 43.132202 54169
+getBlock b3GMWv3S
+getEarliestBlock
+addBlock p7DZB3mWTl 49.153140 5610
+addBlock cygG0yMfoEt 9.351441 27092
+updateEarliestBlock -148.696311
+updateBlock diASb -32.804503
+addBlock 0OCI87txpD -14.612635 26157
+removeBlock iftWPNz
+addBlock LQ5Js0kRdW8FM -30.124078 32871
+updateBlock qrZ4m0M -155.349895
+addBlock ZGDSw -33.768318 78323
+removeBlock STt5QV
+removeBlock CsoT3toR
+addBlock XtQn2My0r 101.081617 78406
+addBlock rt2 -249.575889 26908
+removeBlock 6rNdDdhwm3V
+updateEarliestBlock 7.155210
+addBlock KH9cMmnolHpyd 108.710318 72865
+updateBlock p7DZB3mWTl -35.961371
+addBlock UnvSH 70.824964 45435
+removeEarliestBlock
+removeBlock HfH
+addBlock D1lyxkEBT -30.206435 3248
+addBlock Re9 -23.299381 5375
+removeBlock Qx9jI4vndROi
+addBlock hV2qoAP -133.844266 69448
+addBlock szsuaQgUq8e 20.115782 86574
+removeBlock IOaIJ0j
+getEarliestBlock
+removeBlock kf8D7
+removeBlock HXtbbeZMpAB3
+updateBlock D 142.046741
+addBlock 07k 18.035727 48525
+addBlock CMSceyb7K6 -87.843167 62418
+addBlock YCsaR03Co0n -90.474391 68142
+removeEarliestBlock
+addBlock qU9gie 0.993626 57963
+updateBlock 3r -207.656939
+addBlock E6pYdHgCt19 164.316435 26015
+updateEarliestBlock -63.249428
+addBlock Qkc9 -108.447468 20541
+addBlock ZJcYJHu7Q -102.675647 79920
+removeEarliestBlock
+getEarliestBlock
+addBlock Zm2Fq0mm0u -193.174674 5522
+addBlock wNz 129.107331 90437
+addBlock aGYFQ 75.541017 10764
+updateBlock rNT6pP 248.802465
+addBlock Uno7PzR10 118.732106 8501
+addBlock 54Wp -160.306063 95459
+removeEarliestBlock
+removeBlock xyIc4v6IGW2
+addBlock JXc0I90vt6epD 68.208592 99149
+addBlock oxpiezQO6PW 29.967836 2145
+getEarliestBlock
+getBlock lVXegEdI
+removeEarliestBlock
+addBlock 04mOitdpiFN -142.607325 21467
+addBlock ZEsR77RVE -132.382760 40245
+addBlock quFTMW5CyoaS 270.527458 5883
+removeEarliestBlock
+getBlock YcEeKCOdNEygv
+getEarliestBlock
+addBlock 9DV 261.864663 51977
+addBlock 3GGDIhirDwCuv -131.803846 4991
+getEarliestBlock
+removeBlock wvG0F3
+addBlock UDZHMUf1qnGE 133.534721 64275
+getEarliestBlock
+addBlock lUXP2T7sui -30.585173 81548
+updateBlock WKIvnyM 101.852452
+addBlock qWozLM2Bjw -80.176099 64000
+addBlock 2FQ7L -69.096863 19807
+addBlock 2BTFaxG -43.854284 10874
+addBlock 4hbTLKD87oLyJ -15.782917 63965
+removeEarliestBlock
+updateBlock KrrUY6jjdkQJ 40.494018
+addBlock CwhpA9E1 93.921563 59047
+addBlock LPu3yRnX8CSEN -197.044230 41553
+updateEarliestBlock 7.166440
+addBlock wj -68.178880 22643
+addBlock IpVd 72.822204 96032
+updateEarliestBlock -75.127612
+getEarliestBlock
+updateEarliestBlock 11.975077
+addBlock WtumN -59.907538 94785
+addBlock QSTqgrjnXDQQ -106.491959 83843
+addBlock h6V51tzTEHt -34.112927 19654
+addBlock pl -8.617471 88515
+addBlock yPLxKieTYJC 149.859682 22199
+addBlock z6643 -20.771634 8454
+updateBlock EqHRnT -35.569205
+updateEarliestBlock 27.421590
+addBlock NA -123.383316 3925
+removeEarliestBlock
+updateBlock A39muPDmh -35.024452
+addBlock HYNGy8 -86.058531 52151
+updateBlock aXZqsAYPVeQq -0.212545
+removeEarliestBlock
+removeEarliestBlock
+addBlock UB3 30.512744 27305
+updateEarliestBlock 62.559021
+updateEarliestBlock 147.326861
+getBlock zQTmumf9cFHu
+addBlock F8Zcjhj -40.317264 37517
+addBlock ZsFh0 -91.580341 90160
+addBlock l8SRY2o 68.103724 26024
+removeEarliestBlock
+getBlock 2QqdZQblhB
+getBlock j
+updateBlock k050zVwvbr -43.836070
+updateBlock 271MT2U5IS -26.005800
+addBlock NMWH0yn1Qa9WP 75.924809 63252
+updateEarliestBlock -0.552137
+updateBlock G1jdP8V -37.643301
+getEarliestBlock
+getBlock G
+updateEarliestBlock -105.459869
+updateBlock MKY291 126.390687
+addBlock YKURNOF 102.572325 76880
+getBlock FQ5D25lVg
+removeBlock d8dof
+removeEarliestBlock
+addBlock ZTardJFE50h0 4.883309 98566
+addBlock WN 125.468728 66189
+addBlock cqTkYLp 41.344466 17126
+addBlock e28q0MZ 42.016969 67403
+removeEarliestBlock
+removeBlock VZnRVJcARpB4I
+updateBlock Krkc7i -158.835989
+getEarliestBlock
+addBlock 49257ruZaEu -152.932735 81315
+addBlock JQQPIW 44.386317 92369
+addBlock DtwqsQhX 86.187645 20515
+addBlock BEDlUZkbDYM 1.747155 88445
+getEarliestBlock
+addBlock EKoy694 -4.169850 3982
+addBlock PM5YGf000N0ex -17.801758 41827
+updateBlock 3r 105.663856
+addBlock zbLU -117.971462 7202
+addBlock OB5b 7.818465 14328
+updateEarliestBlock 230.700484
+getEarliestBlock
+addBlock 5DQU1CF 92.707458 17011
+updateEarliestBlock 51.712686
+addBlock 1paQ1Ud 63.969974 42445
+getBlock xMHErJL
+addBlock NHyiyn7WZr 108.837060 46088
+addBlock MX -97.404293 23223
+updateEarliestBlock 97.858234
+removeBlock ziRmEGlb0
+addBlock hEkOSf -116.776218 52109
+addBlock krhwjBG 21.094146 61484
+removeBlock yi8zgfMlUb2
+getEarliestBlock
+addBlock QahAyFZwWkyw 74.222377 11078
+removeEarliestBlock
+addBlock 6qz -8.826341 1272
+addBlock Gzng5 130.498308 84061
+addBlock n5r 20.246896 5686
+addBlock UdsuJvXVFEXY 43.712217 29570
+updateBlock fhWU31D -146.105084
+updateEarliestBlock -88.291382
+addBlock bI76mD -116.552465 5039
+getBlock KGDRelS8wdcV
+addBlock 6S -94.404158 42706
+addBlock GIKyg1cLhU -1.268108 6873
+getEarliestBlock
+removeBlock qOkiWIdi7Bn5
+getEarliestBlock
+getBlock aKplS
+addBlock EtvShDA9EQNyj 33.846435 6386
+updateEarliestBlock -31.251831
+removeEarliestBlock
+updateBlock 2FFNZQXAvxsw 55.035828
+addBlock 2sY -33.785311 998
+addBlock jPj58 -60.348667 34305
+updateBlock uyP -13.277234
+addBlock bxB -18.431238 10676
+addBlock 0xUV29u6 180.210364 51321
+removeBlock bxB
+getEarliestBlock
+addBlock frlt0 184.411766 87183
+removeBlock oH
+updateBlock FE2s -126.625619
+addBlock J6jHHng -114.743473 29786
+addBlock sv7pQt44Gdv -40.618492 49828
+getEarliestBlock
+addBlock A9LVrnfE -30.484557 75586
+getEarliestBlock
+addBlock jxiJdeLf -24.781606 14717
+removeEarliestBlock
+addBlock 5sm4KNlf85i -131.898057 28733
+updateBlock zg 4.384218
+addBlock GQ 109.107199 68389
+removeEarliestBlock
+updateBlock KK 9.592687
+addBlock fhqag2fHPuLi -6.461135 86391
+addBlock ErMwSMhZtde5P 192.793071 45800
+addBlock HYJ7NvLlj1Qp 43.446955 93536
+addBlock ijfqESkEZXH3 31.785710 1457
+addBlock yhw2uWlm4F9 37.563403 20587
+updateBlock vc -56.100449
+getEarliestBlock
+addBlock l7 -115.412769 44755
+addBlock WIjBAQpcmD 131.961283 32780
+getBlock UzZh1SCLH
+addBlock 2zH5MZV0RLKh 37.683039 7768
+addBlock Qjh 34.406066 56073
+getEarliestBlock
+getEarliestBlock
+updateBlock ySa2tJ -31.116725
+removeBlock Sfcq
+addBlock M1AGp 209.193482 57180
+removeEarliestBlock
+addBlock dV 32.936565 15692
+addBlock UMHL -13.953468 61819
+updateEarliestBlock -110.758864
+removeBlock NeWkDKTVy9
+addBlock CAzCtQt5TakdI -60.888068 68108
+addBlock KPrAL2iBPEvWU 42.980715 1048
+addBlock sPJ2r2Je3PB -257.849890 16623
+addBlock PHUIuBEae 67.521617 21674
+addBlock NBzOAxAHWN -111.208745 873
+updateBlock E 1.965759
+getBlock GzBs
+addBlock nGapnD 4.342643 39274
+getEarliestBlock
+getEarliestBlock
+updateEarliestBlock -28.774976
+updateBlock 3BadC 84.812661
+removeEarliestBlock
+addBlock DdI2dj -19.624909 57820
+getBlock RtnAMmw6pCB6
+addBlock 022bxVX3CB7S 62.544985 14606
+getEarliestBlock
+updateEarliestBlock -43.932637
+updateBlock uerLWY5hf5uo 120.769199
+addBlock IOaIJ0j 28.259210 31723
+addBlock Sum6KAyPAjL -23.194653 18314
+addBlock jQ5Sr -17.112281 17540
+updateBlock N5Gios 108.817314
+getBlock qlpEdjildd
+addBlock kTrGQytT 38.238714 37967
+getEarliestBlock
+updateBlock Wo 228.089653
+addBlock ZSo -94.510804 36430
+addBlock 8KzjDHZSR0 -44.698243 34439
+removeBlock He3
+addBlock bzfdkkDHAV 66.765176 54091
+addBlock yUBOPlgAJEk -141.773895 32886
+updateBlock rAK 6.912559
+addBlock z5tWPD 163.413838 49399
+addBlock xiUzYQ1Er 11.101540 33061
+updateBlock A -106.497434
+addBlock vBuZnhttfawj -10.238170 66527
+addBlock sF1IXkkXeM1S 76.526279 18325
+updateBlock Ypbqt5gEoOi9 -176.208904
+addBlock 21iVNafNbBL -10.140673 4996
+removeBlock LhZ5rgdejdjY
+updateEarliestBlock 66.595198
+addBlock Ys 139.884782 19939
+getBlock ORSiiGuc344s
+addBlock zzqB7q 71.817499 68451
+getEarliestBlock
+addBlock 5gfpLWy -25.074277 56528
+addBlock JZ9DMKOTJtt -76.419352 45252
+getEarliestBlock
+removeEarliestBlock
+updateBlock PYc1S 92.223243
+addBlock aethNzR4vA 137.996167 96938
+addBlock PTtYevaqunFV5 134.186572 36083
+getEarliestBlock
+addBlock mmk40e -138.248347 26928
+addBlock Vfz39rF1J 60.107529 64058
+updateBlock MbWDxFNZI 133.531189
+removeBlock 74b2V
+addBlock qIPlWW6nlvrOU -48.175199 8643
+addBlock MyZq -65.840221 51161
+removeBlock Zk9hskfOeM2t2
+addBlock 6wVL -41.943471 14523
+addBlock 6sKo -111.703535 56998
+addBlock u1 -81.566658 82110
+addBlock lObK -11.790773 47989
+addBlock MLS1Bf -33.044471 80623
+updateBlock gDIeMJ3H 16.101599
+addBlock VDnY 152.665318 69405
+addBlock gc4G6DE 51.350938 95370
+addBlock meDo 51.696329 73958
+updateEarliestBlock -24.949946
+removeEarliestBlock
+getBlock JGNMfs5MPHy9p
+removeBlock Y
+addBlock kogeFYhx0Pmu -20.079094 8688
+removeBlock R6T
+updateBlock r8EnnVf 7.050148
+removeBlock T
+addBlock H2ZnfbZFT0A 200.880292 94910
+updateBlock Iyp4 75.075437
+addBlock 6uh2DEzIrY 54.091753 2970
+getBlock MbWDxFNZI
+addBlock mb5PB6twk0z -141.868515 35554
+addBlock ibzm 99.544571 81187
+removeEarliestBlock
+getBlock aethNzR4vA
+removeEarliestBlock
+addBlock IWhpfuVU 172.039888 28059
+addBlock 92n6SSdCT33h -103.072284 91781
+getBlock dVBL
+addBlock iq 209.530283 51097
+updateEarliestBlock 41.601200
+addBlock b -216.113614 4558
+addBlock lo3kYiXY7tg0 193.392929 51178
+addBlock iDf 215.780049 47566
+removeBlock DdOjJx9Wn
+removeEarliestBlock
+addBlock YS -127.572018 87379
+addBlock cx5QM642C -54.091254 83036
+addBlock IhM9gOJS -144.696366 86256
+addBlock pSZqzTL0bb -120.617659 1604
+getBlock 3zKXGCIDZA
+addBlock uRl 76.089017 54632
+getEarliestBlock
+addBlock n7DzMebWy -25.170456 5322
+addBlock Cp3W -156.496164 64603
+addBlock 1l1tcX -72.779949 95097
+addBlock Zi81UQ 168.683624 95327
+getEarliestBlock
+addBlock av6bEGY0HdM -86.739082 77677
+getBlock UVwr8a48rT
+updateEarliestBlock 116.181895
+addBlock ENX5qLy -31.814059 71476
+addBlock TA3dzSX1xlz -103.161142 61107
+removeBlock 0nAWTMD9ood0M
+addBlock fcaTl -144.931099 6806
+addBlock Ch3l6EGqd4 197.391041 83149
+addBlock jU2 -36.967436 51282
+updateBlock 9bGCLgp7J1k -47.859837
+updateEarliestBlock 67.032815
+addBlock DpcFJq4 -204.686923 9709
+addBlock f9b0WcwDQElB 36.549039 19676
+addBlock cEfv 100.225849 25766
+getBlock L
+removeBlock qjqFgXiOu9Xuk
+getBlock IpVd
+addBlock BwgqLPa0OLKd 53.144195 47349
+getEarliestBlock
+updateEarliestBlock -54.268033
+addBlock 61SdCvdmx8 55.147194 76131
+removeBlock Me9jPA
+updateEarliestBlock 141.190725
+addBlock W1i 108.214660 3029
+addBlock X0xeSHp 140.315176 90517
+getBlock 2ZkhNM
+addBlock ftrPvy 20.987336 26967
+updateBlock 4costx5CvVkg -133.750191
+addBlock YRT -31.954248 58109
+addBlock 9Jusou8rv -109.374224 42116
+addBlock JcDHKI -121.108684 5028
+getBlock p0aPyp
+addBlock x3i9uEOM6 -178.103063 70665
+removeEarliestBlock
+addBlock a -108.830938 6902
+removeBlock 2HU0xSAj
+removeBlock 571rZLqbkQT
+addBlock QXFHt36Z 147.231003 61958
+getEarliestBlock
+removeEarliestBlock
+updateBlock FE2s 66.485303
+addBlock w8mT05iX -108.944795 51712
+addBlock 1E -87.238478 992
+addBlock Ssv9 -19.895629 6869
+addBlock Volg 70.029446 28754
+addBlock TsKWWeZ 50.105209 50089
+addBlock Snc8NeEBIDB -32.188383 85581
+addBlock X3WjpG8GPW -216.545589 78405
+updateEarliestBlock -145.616083
+removeBlock zzqB7q
+addBlock ZZXzhUv 37.556094 89359
+updateEarliestBlock 103.405455
+addBlock DqqvOW44fC0VP 83.560399 59659
+getBlock i0T
+getBlock XhihZ5
+addBlock Qz 7.179069 35827
+getBlock uWZdlfbcUlNA
+getEarliestBlock
+addBlock MqH2UkNS4itmB 73.339393 2965
+addBlock i5uCJKCTP 10.676254 63009
+getEarliestBlock
+addBlock 9P3 74.497014 62002
+addBlock PDGklKF 49.979394 90106
+getBlock JABm7VWwP0n
+addBlock jMQNs 18.430801 7862
+getEarliestBlock
+getBlock Zid6gUQt
+updateEarliestBlock 184.760884
+updateEarliestBlock 54.820615
+addBlock sYCB 31.999676 79405
+addBlock uyCfbNe 25.712606 98941
+addBlock iKbCj 54.874101 55308
+removeEarliestBlock
+getBlock TaB7F
+removeEarliestBlock
+addBlock 1QvNlwO7k9tp -75.870979 7411
+updateBlock 2zJyv4RoPW 34.549743
+addBlock FEY -78.642197 2958
+updateEarliestBlock 21.002217
+getBlock PCLUxH
+updateEarliestBlock -21.013951
+updateEarliestBlock -44.802464
+addBlock yg3dVRKzV -162.997917 79644
+addBlock cypFSo 74.534700 96894
+getEarliestBlock
+addBlock gO -53.651245 93511
+removeBlock Xosjk0
+addBlock bJ -23.065044 92068
+addBlock RmUTSkyC -95.641995 95811
+addBlock zRLHC 9.493212 11020
+removeEarliestBlock
+getEarliestBlock
+getEarliestBlock
+removeEarliestBlock
+getEarliestBlock
+addBlock 1H0Rk 122.475890 71817
+getEarliestBlock
+getEarliestBlock
+addBlock 33As -119.330341 32223
+updateEarliestBlock -46.128737
+updateBlock qWozLM2Bjw 194.109483
+getBlock GIzjdf
+addBlock MIO6THCT -25.695343 62448
+addBlock D6 -50.758787 26377
+getEarliestBlock
+addBlock nbr8sm1aLb -17.442204 29970
+updateBlock HHrK9UlVaDDt -31.601180
+addBlock BCR 104.543158 4572
+addBlock VAI4wz0OBMV -26.610365 3917
+addBlock Iy1VBJOpYRyM -56.231997 25679
+addBlock ICM2yN 38.433641 9179
+addBlock E9JOG5 81.356839 1275
+getEarliestBlock
+removeEarliestBlock
+addBlock BM3bopYP 76.144138 57190
+removeEarliestBlock
+addBlock Xz -8.316942 1643
+addBlock jDR5X2wf -13.043487 6560
+getEarliestBlock
+getBlock Bo49tUo7oz
+addBlock 41 -166.600646 48184
+getBlock F6iWh
+addBlock CdrwtawwPc 70.492801 22754
+addBlock 2aMh -160.041446 27994
+addBlock avqUs6PH9LE 72.041836 11216
+getBlock edDpD
+addBlock uXFEBXLnilQSZ 31.502567 90547
+addBlock TbpOaCfr -142.664372 16287
+addBlock ir -88.405107 3893
+addBlock tD -37.371045 42322
+updateBlock E254kj -71.489392
+updateBlock nKG3qaYHgxFA -103.237538
+removeBlock er
+addBlock qp 117.888613 27889
+updateBlock qU9gie 192.677381
+getEarliestBlock
+getBlock iDHMSPq7wXdOl
+addBlock QLQ -62.321797 2627
+getEarliestBlock
+updateEarliestBlock -10.097307
+addBlock m9t9MD 10.521686 10610
+removeBlock Y0
+addBlock XAOKmUqNh -20.574256 2191
+updateEarliestBlock -9.555883
+updateEarliestBlock -271.514015
+addBlock IdtjUb8 25.785681 87364
+addBlock QFiUIeLZH 3.008438 41270
+addBlock K42WS -9.889894 4498
+addBlock bj5hgxE9N 39.423502 95906
+addBlock wqY4SR 154.890036 5046
+getEarliestBlock
+addBlock 9Nb 99.522552 25205
+addBlock YvqWGmdBSdabk -23.339718 15745
+getEarliestBlock
+removeEarliestBlock
+removeEarliestBlock
+removeEarliestBlock
+removeEarliestBlock
+updateBlock Qzal4VZ -61.978455
+updateBlock 9zLkuDT -137.353398
+addBlock cvj -55.573272 63599
+addBlock QKlfDbznWSgjw 38.838604 2526
+addBlock 2SWYtFjARe2 178.880103 1834
+updateBlock 1E -32.989897
+removeBlock ktol
+removeBlock HYNGy8
+getEarliestBlock
+updateBlock o6yuA8uf 21.855663
+addBlock QkOMeOg -56.487706 80160
+addBlock PoPvPGCJMm 38.910963 50205
+getEarliestBlock
+getEarliestBlock
+removeEarliestBlock
+addBlock cX 31.026396 96010
+updateEarliestBlock 56.425437
+removeEarliestBlock
+addBlock 0Edj3 97.665239 61909
+addBlock oH -144.691402 802
+updateBlock T96wBDR8LHT -75.708883
+getBlock E9JOG5
+removeBlock 23T9
+removeEarliestBlock
+updateBlock UKugpoiqEZ5m -57.477077
+updateBlock NgXm6cun -5.785235
+addBlock Dc -35.734743 18720
+getEarliestBlock
+updateBlock np692 -17.900083
+updateEarliestBlock -54.951237
+updateEarliestBlock 1.854503
+removeEarliestBlock
+addBlock 4ks7bUnA -72.369921 11663
+removeBlock h6g7FVKjOV
+addBlock FUBBTN7z 170.649844 98067
+addBlock kWf 71.989012 47277
+addBlock soYC 19.820378 99376
+updateBlock kogeFYhx0Pmu -83.376211
+addBlock MGq0 -67.726938 66981
+addBlock vOR 9.803789 20367
+updateBlock kd1dqDF41 101.801303
+updateBlock 5sm4KNlf85i 19.990932
+updateBlock tFztlT0sycr 57.557955
+updateBlock mvwPna6U 78.905947
+addBlock MvA -47.306330 20504
+updateBlock UVwr8a48rT -11.045240
+addBlock yHFQnXAQKoDR 89.620018 42694
+addBlock 9wNagS 26.938760 51902
+updateEarliestBlock -152.564970
+addBlock FF20 108.347934 58447
+removeEarliestBlock
+addBlock TqQv6Or3yHHv 216.650079 19264
+addBlock re 133.711483 75574
+getBlock jU2
+removeEarliestBlock
+addBlock BmgVT -29.816657 69043
+updateBlock UZf9Z 107.644672
+removeEarliestBlock
+addBlock iBLd0qxeab -22.064529 51728
+updateBlock JoCQR02Drotj 79.206203
+addBlock BngQXAg07co5 -81.003610 88447
+addBlock eRf 29.407630 61270
+addBlock 7Ro0qMhoeAAGH 3.641782 36608
+addBlock kf8D7 73.849488 81873
+updateEarliestBlock 27.963349
+addBlock vZN -88.925982 69236
+addBlock y1I8PDqUNd 22.547249 8450
+getEarliestBlock
+addBlock FyQiuQ3Nn2l 80.496642 5481
+removeBlock Ks0a6O5zK7mH
+removeBlock mjJ8b
+addBlock QDlsvNWZb -142.580108 76974
+removeBlock pu
+updateBlock JlShJ3VAaFLC 15.617999
+removeBlock P8gmvNX
+addBlock XN3OnaYP 104.476850 39276
+addBlock wuwRbg3svRKf 185.152202 5097
+addBlock 0MdOZmHp7OO1 -124.312287 62297
+addBlock s8HqTLUkC -90.642714 42607
+getEarliestBlock
+updateBlock j4hTa 32.161512
+updateEarliestBlock 177.495334
+addBlock QiSawgFauzI 57.552971 42640
+addBlock un -32.027092 52214
+updateBlock p6mp25PM0 125.415464
+updateEarliestBlock 81.861739
+addBlock HOoir 52.585994 55263
+removeEarliestBlock
+addBlock P7PwcS 65.174656 36260
+addBlock R0B 169.943762 6064
+getBlock eSMzwad9HE3u
+removeEarliestBlock
+updateBlock PDGklKF 3.496551
+updateBlock 1QvNlwO7k9tp -296.474573
+getEarliestBlock
+getBlock kw9S4W
+addBlock UPG2he1 179.872621 14545
+addBlock YMif 89.327628 14254
+getEarliestBlock
+addBlock QygqBbPc 71.577290 18343
+addBlock bpxFt 12.051414 3767
+addBlock aP -26.334972 7502
+removeBlock cx5QM642C
+addBlock 3oPUqSoJt -153.598735 17671
+addBlock wG -74.249087 80979
+updateBlock hXyACk4AGapt -103.880972
+getEarliestBlock
+updateEarliestBlock 164.780732
+getBlock aHbgTJAx
+removeBlock Kz
+updateEarliestBlock 30.737299
+addBlock 28MZ7k -25.987548 9569
+addBlock guj7DG7 -65.952031 77749
+addBlock 9wPDF 80.852504 46313
+getBlock vrUcJV
+addBlock uTbdaIcAf7969 -239.026095 2299
+getEarliestBlock
+getEarliestBlock
+getEarliestBlock
+removeEarliestBlock
+removeBlock a95QjEhfCnF
+getBlock 1xLEOgPfPj
+getEarliestBlock
+updateEarliestBlock 29.910611
+addBlock kGW1 184.873431 3694
+updateEarliestBlock -11.295406
+getBlock XhihZ5
+removeBlock fhWU31D
+addBlock bCk5M2bTfgK -51.436444 88206
+getEarliestBlock
+addBlock uqcURdOlB 44.346163 37008
+getBlock Ib
+removeBlock d5TGFybp
+getEarliestBlock
+addBlock SEJfjC25ew 60.033931 57332
+addBlock JWJxDJy7g 125.162983 18229
+addBlock 8P1p0OX -50.211107 74112
+getEarliestBlock
+removeEarliestBlock
+addBlock 8X7npWb 55.260190 85320
+getEarliestBlock
+addBlock hDXJPo -42.743191 86160
+addBlock s7CCY 88.721604 67909
+addBlock qM7J4csK76Fg -75.641475 58952
+addBlock rPCZ3ujP1nnCP 63.525809 75271
+removeBlock RlRDxvuoSiFO
+addBlock vrXzUrz7sBEy -101.432862 80131
+removeBlock MziU34
+updateEarliestBlock 165.603406
+removeBlock Wh
+addBlock HV2uZ -13.066454 4555
+addBlock 42N1ncBlfLo -65.927711 56753
+getBlock srBFQgy
+addBlock KHDaKPWYa 5.780384 49523
+addBlock T3mOKghjq5 -193.169736 89200
+addBlock ZkidWfpU1FSxj -52.109798 84113
+removeBlock 0YERAK5frAj55
+updateBlock 3nSHCOSNuNp 127.737734
+addBlock KfHDZEVELZ0 239.857816 84151
+updateEarliestBlock 17.842803
+removeEarliestBlock
+addBlock HfH 137.037721 53741
+addBlock U8U6 -203.001462 51768
+addBlock yc8uMMt5 -113.558041 32349
+getBlock RxWsFU
+addBlock jAgnIPG -159.926168 7594
+getBlock As
+removeBlock BEDlUZkbDYM
+updateBlock Zm2Fq0mm0u -102.400911
+addBlock Z4ogT7b4BL8e 101.045374 91617
+addBlock a093NR3AcIuk -160.824499 34223
+addBlock y -98.890410 15373
+removeBlock booNlNOO0
+getEarliestBlock
+getBlock jJseajxmy
+addBlock N5Gr3qEgK89 -36.787927 90278
+removeEarliestBlock
+getBlock 88Z
+removeEarliestBlock
+updateBlock xoiY054dsE 26.439647
+getBlock wdzngifO
+updateEarliestBlock -114.230882
+addBlock gJOzB5 140.514323 77915
+updateEarliestBlock 40.734378
+getBlock AZE
+removeBlock PHuUtHrM9LeP
+addBlock X7In 117.976212 4033
+addBlock Z 149.476172 13590
+updateEarliestBlock 20.071619
+addBlock ymMpT -49.823440 14036
+addBlock 1iU1ck -22.858277 25431
+removeBlock jbfg7R5
+addBlock nrVQ7hySJpQm 55.132841 2224
+addBlock d8dof 6.934359 88560
+addBlock u2H8AWGbM7 -92.395882 5129
+updateBlock 8fWAOVGvFT8 25.880873
+getEarliestBlock
+addBlock 0L8274tG 96.262730 92846
+addBlock SqB6wku -60.993917 3697
+addBlock ndLS -225.520993 97937
+addBlock BHRyybi 177.403022 80747
+addBlock YnZXMK 65.338034 91413
+updateBlock 23xo -155.092028
+updateBlock u2H8AWGbM7 -29.259336
+updateEarliestBlock -44.182320
+addBlock 67w9b3m -111.150929 4398
+addBlock jwS1ZYSd 20.491287 87151
+addBlock EEJafo -195.761518 29237
+getEarliestBlock
+getBlock o6yuA8uf
+updateBlock RxDV0Q2I -18.502364
+removeEarliestBlock
+updateEarliestBlock 94.536639
+addBlock Za5IclIiRSeV -111.891396 14826
+addBlock cdXH4el -89.974419 57817
+removeBlock P7PwcS
+addBlock NIkru 121.572563 1032
+addBlock M2RN6rdoX -172.082800 87827
+addBlock RcTm 3.118966 65744
+removeEarliestBlock
+addBlock 8MIoecIb5H 16.972116 66440
+addBlock HBQuggoUlvI6 14.045296 2133
+removeEarliestBlock
+getBlock oz4Ny
+getBlock ZGDSw
+updateEarliestBlock 249.949787
+getBlock 1YBj2QhY3A3K
+addBlock YIG4fg4L 136.875285 69849
+addBlock HTJoclsMrXO2O -84.455519 44256
+getBlock srBFQgy
+addBlock pE1mnTOr1 -64.062081 30568
+addBlock v7p4c0d71Ej0 36.616536 46675
+updateEarliestBlock 123.089174
+addBlock f6 258.280146 66218
+removeBlock Jsh
+removeBlock lo3kYiXY7tg0
+removeEarliestBlock
+addBlock Bc1 113.702486 543
+addBlock 0d5hsJi -114.345279 76282
+addBlock dW 67.147405 77259
+getEarliestBlock
+addBlock bZ1TD9spswg -82.346312 86397
+removeBlock 9Je0
+getBlock vb
+addBlock VvTCPa 83.859082 44800
+addBlock kU0oxIBIW -64.659037 76432
+addBlock gWnw5HVX -51.501336 76133
+addBlock eTCHkRpF -60.671750 83234
+getBlock iSx9Sqn
+getEarliestBlock
+removeBlock iDHMSPq7wXdOl
+addBlock S2 126.862091 76050
+addBlock ThrENZN 81.574504 69529
+addBlock R6T -87.719800 93602
+addBlock cy1eg -121.850608 74091
+removeEarliestBlock
+updateBlock Nb2B -71.844136
+getEarliestBlock
+addBlock byB1 -28.321449 44563
+addBlock O8vl6XsXicEO -37.564796 54179
+addBlock nXmalO9 61.824243 53875
+getEarliestBlock
+removeEarliestBlock
+removeBlock 6qz
+addBlock iHOz 98.195091 92421
+addBlock RHqi9vBTKOc8 -20.738962 84370
+updateBlock GPLo1x7jIJ6 9.806319
+addBlock c6My5UaHr 23.029703 41314
+addBlock Tdz9VpqtO7cu0 29.958486 12094
+addBlock fGcgBnlzGBF 63.339362 77205
+addBlock weFJ8eQtdOYsY -141.854711 7195
+addBlock 6sHRglFWPRc -103.988217 47958
+getBlock OCcT4E9S
+removeBlock rncF
+removeEarliestBlock
+removeEarliestBlock
+addBlock 1H6QDmg -34.033595 9870
+updateBlock U -15.921438
+addBlock oGmLyrVdaud9X -127.292643 16289
+addBlock T2KlhSYPlsp -151.447726 10001
+addBlock cA -158.014774 3020
+addBlock RywJoFyMzGAu 10.153490 78524
+addBlock xiv2rjXybzn -46.983079 97110
+getBlock lEBg
+getEarliestBlock
+getBlock jAasnI
+removeEarliestBlock
+addBlock vhR 53.005069 6785
+addBlock DnWgx1dt -61.102102 73983
+addBlock MKc6eGZA -171.284811 55818
+addBlock 6l -125.662487 68472
+addBlock 5ju -42.122989 22258
+removeEarliestBlock
+addBlock 3hGZ 68.384732 72561
+addBlock wdAcVICk 88.617729 33887
+updateEarliestBlock -5.541191
+updateBlock VvL95hlhDRkXJ -2.107034
+updateBlock 6qM9EW -149.098072
+addBlock JMDgBKm -42.277088 53669
+addBlock zfm 108.236451 44612
+addBlock BDtBa166l -103.212149 56589
+removeEarliestBlock
+getBlock xDMNjjDs
+addBlock P9y 125.026160 4336
+getBlock u4fCe038
+addBlock LCw -58.671568 16532
+addBlock 5aEGIu5T4 91.227684 74942
+addBlock 7E -11.681820 7283
+removeEarliestBlock
+getBlock 7j5znJGgGCOa
+addBlock YEIaPm -155.620593 60445
+updateBlock CGSZtW -87.561744
+addBlock 5gKuf -127.912467 32033
+removeEarliestBlock
+addBlock 5Zgmpv9zoUC8M -66.725320 668
+removeBlock GIKyg1cLhU
+getBlock g
+addBlock 7xKSVJVF -100.582457 9460
+addBlock KKf 16.089449 8263
+removeBlock zw2PCT61YnW
+addBlock SylxEFEXLA1U3 -6.311299 95699
+addBlock MrjPzxus 76.325222 30143
+removeEarliestBlock
+addBlock ISxF4rvKo 3.873904 2274
+addBlock sLtmxNTkgp -37.608055 74411
+addBlock ATZmGs3Gc -36.872270 77246
+updateEarliestBlock -62.249465
+getBlock f
+addBlock LKAnX -242.828433 89710
+updateEarliestBlock 121.577000
+getBlock i4
+getBlock WSiV
+removeEarliestBlock
+addBlock ay6wRNbi 55.455820 9717
+updateBlock F -30.713776
+addBlock 0eI 207.341364 44
+addBlock MbB 6.367847 66085
+getEarliestBlock
+addBlock ySih 155.332202 7978
+removeBlock vY6zQRTvYmEq
+getEarliestBlock
+addBlock sN8I -14.847112 97623
+addBlock ZoMwsUpctV -11.890121 4223
+updateEarliestBlock -132.138489
+getEarliestBlock
+addBlock KAbjk7Ip 150.741157 65646
+addBlock iMlLCi7 84.617199 46736
+addBlock T -238.010167 23419
+addBlock Fp -31.076681 9937
+addBlock 0bwRnJe 155.916748 34970
+removeBlock Nb2B
+updateBlock emyjNUiER 166.643176
+getEarliestBlock
+addBlock Q -41.125865 49335
+updateBlock kHbVTs7 -101.935068
+removeBlock NamTsuiXSQ
+addBlock C6wP0zRu0IM9V 282.405809 85042
+addBlock T8GqV8bQ -21.976419 33586
+updateBlock iPk6q 218.922405
+addBlock BpgZ -107.169668 98130
+removeEarliestBlock
+addBlock rRZuQI 60.091274 60450
+updateBlock MFug5cdg 184.982447
+updateBlock 2aMh -12.658933
+addBlock jXw8FK4LJ8sR -240.267823 66397
+addBlock JHNMUdG0MqG -105.232449 86259
+addBlock C6 74.781242 65753
+addBlock 9zahIPSa4j56 55.356713 29893
+getBlock eC
+addBlock MKTNw 107.067231 85638
+getBlock oRm
+addBlock RDglcq 146.132149 56199
+getBlock NbTP
+addBlock Kz 38.087239 28023
+removeEarliestBlock
+getBlock mJIbqdv
+addBlock oIPt 99.195267 9785
+addBlock cFU 62.312528 46584
+getBlock QZ
+getBlock 3hKdjDgZOYC
+addBlock DdOjJx9Wn 9.719122 62828
+getBlock NHNEa8Ol
+getBlock 8GxyQaUkssom
+addBlock 8ieZU5LqMKzd -179.999362 20787
+updateEarliestBlock 0.738143
+addBlock iDHMSPq7wXdOl 58.457477 28423
+getEarliestBlock
+addBlock Dfkjk 34.346158 36027
+addBlock TIm7lzrS -3.166166 49756
+updateBlock pZOECBLAFoq 146.972758
+getBlock LPu3yRnX8CSEN
+getEarliestBlock
+addBlock 6rNdDdhwm3V 107.273835 76756
+updateEarliestBlock -53.161733
+removeBlock uTbdaIcAf7969
+getEarliestBlock
+addBlock JaJgZTX 7.654795 28982
+getEarliestBlock
+updateEarliestBlock -65.328293
+removeBlock 39
+getBlock M4E
+removeBlock OH973T
+addBlock z25gbJp3Bm -131.045429 86501
+addBlock vMipo2 -43.009664 46653
+getBlock tCFcH9iO
+addBlock DcQcgf 35.806397 995
+removeBlock dlbK2aRCpJ
+addBlock tQgVvQ0X5 -96.633726 5790
+addBlock yOL 84.099441 31651
+addBlock xP 102.175369 66401
+removeEarliestBlock
+removeEarliestBlock
+updateEarliestBlock 207.520488
+addBlock NIT 81.347440 90418
+addBlock ZQlmwywvFkPK 40.646534 26875
+removeEarliestBlock
+addBlock STt5QV -15.540001 54176
+addBlock a736baq 50.697405 37877
+updateEarliestBlock 117.923189
+updateBlock Ram61fDnTgL 32.658791
+addBlock KkxoG 69.258797 4865
+addBlock ks2ohh8QzlvKE 113.586865 80672
+addBlock R5HFgWbhn 22.619465 4092
+addBlock nvzRnMtw -14.516850 75776
+getEarliestBlock
+addBlock 3nTO0O3ox -14.667917 67651
+addBlock Hy7MGK 245.828850 74235
+removeBlock TxOl7v
+getEarliestBlock
+getEarliestBlock
+removeEarliestBlock
+updateEarliestBlock -125.937329
+getEarliestBlock
+updateEarliestBlock -62.228546
+addBlock puS 19.898375 982
+removeEarliestBlock
+addBlock LkMozbxjQDbt1 101.728319 86760
+addBlock QduQcTlo8Q1 14.425961 59539
+updateBlock sRYbTpLH7 20.870174
+addBlock MU -143.140531 26934
+getBlock i0T
+addBlock 68JFMUh -101.810429 68033
+updateEarliestBlock -102.990048
+updateEarliestBlock 102.833812
+removeEarliestBlock
+removeEarliestBlock
+addBlock SH8 -156.391224 90208
+addBlock kt8Okiaq 120.141812 92539
+updateEarliestBlock -4.502180
+addBlock iaOhZbb4fY 63.437760 9549
+updateEarliestBlock 3.388918
+getEarliestBlock
+addBlock tLW 108.699764 14265
+removeEarliestBlock
+addBlock Mk5VUglB 42.877567 91299
+removeEarliestBlock
+addBlock Otu54XEZt8G -40.157323 30407
+addBlock WHT -99.829951 59978
+addBlock ROAujgws65Cat 26.237332 5864
+addBlock sv2U9hFa6ykg 148.871358 4533
+getBlock RoqzInd3boH1
+getEarliestBlock
+updateEarliestBlock -112.206178
+updateBlock 5CKgXKEJBp 11.026826
+addBlock 3lG5gi0HKI -41.305625 40536
+addBlock eVAQ95tFTV1 23.626640 36004
+addBlock tY3MFoF -179.159684 39656
+removeEarliestBlock
+addBlock cxW 173.540839 53693
+getEarliestBlock
+addBlock fwZOBs7 214.841305 7043
+addBlock lLKmoz6RFkD 114.487713 77413
+removeEarliestBlock
+addBlock EXzd -135.978524 83961
+addBlock jQ8RTSk4u 48.864182 91972
+getBlock 4LFTlVuii
+getEarliestBlock
+removeBlock R4VsjDiUBJpAE
+addBlock kGS 88.253650 8274
+addBlock OYdtbqjz 10.264017 5521
+getEarliestBlock
+updateBlock z8GhT4c1Vhs0C 261.351835
+updateBlock YKURNOF 81.491763
+updateBlock f50A 18.893272
+addBlock rdZ 79.605908 88841
+removeEarliestBlock
+addBlock 8g9nRYFQMI -20.568843 98359
+getEarliestBlock
+addBlock MziU34 180.699297 37908
+addBlock HKu9ALcaP 8.921000 737
+addBlock 47S7 53.031620 58554
+updateEarliestBlock -39.963318
+updateBlock lObK 135.284169
+getEarliestBlock
+getBlock s8HqTLUkC
+addBlock Ogw 197.563886 21662
+removeEarliestBlock
+updateBlock dFR8PM -155.510216
+addBlock jDlTAKQ 43.732128 57447
+addBlock rgLg9 47.857919 9288
+updateEarliestBlock -6.098493
+addBlock YxQp 60.669177 2029
+addBlock rOLzCoBf1 -281.949195 1069
+addBlock z5IcL0ul -42.815850 8059
+addBlock Wx5 -41.422283 94618
+addBlock Avc -20.437914 9622
+addBlock h6g7FVKjOV 143.135593 70035
+updateEarliestBlock 84.283873
+updateEarliestBlock 62.534430
+removeEarliestBlock
+getBlock gPDC5r
+updateEarliestBlock -7.110216
+removeEarliestBlock
+updateEarliestBlock -161.435380
+getEarliestBlock
+addBlock Q3D2Ij -116.713899 37312
+addBlock tH -80.490469 55513
+addBlock 3pfgwDt7Ehhgb -55.369940 28525
+removeBlock oIPt
+addBlock tHSpBs 120.069937 45980
+getBlock JlShJ3VAaFLC
+removeEarliestBlock
+addBlock 8qIpxrgiH 24.492913 41330
+updateEarliestBlock 158.410933
+addBlock 99hA -41.179796 98981
+addBlock UpuYx 251.725248 8402
+updateEarliestBlock 83.047256
+getBlock 1ruaZ
+removeEarliestBlock
+addBlock Uo31lq -158.656406 31489
+addBlock 0RhK37X -122.012471 9955
+addBlock EvbRO 98.717335 68871
+updateBlock eRf 97.415420
+getBlock oGmLyrVdaud9X
+getBlock B4
+addBlock L7TPgFpz69w 141.260044 65580
+addBlock 7juj 32.821961 39085
+updateBlock OUDKgxpVLwJil 99.102465
+addBlock k8Wp8MJwb 25.370457 25832
+updateBlock ww4jgiaJ6R 35.392291
+removeBlock m0m
+addBlock OJPuCabg6 72.106142 9738
+updateEarliestBlock 221.231611
+removeEarliestBlock
+getBlock FXmb1u6YmXwqm
+addBlock OQtP -100.388021 54302
+getEarliestBlock
+removeEarliestBlock
+addBlock iftWPNz 100.179138 48517
+addBlock YxXBneZK 22.250575 59225
+updateEarliestBlock 68.121948
+addBlock MTTQWcx -4.988020 6875
+addBlock X1LP -117.874232 38361
+getEarliestBlock
+addBlock Yi -39.087732 33311
+getEarliestBlock
+addBlock lIX3uniOXBg0m 124.151482 37440
+updateBlock l7 -213.145265
+removeEarliestBlock
+addBlock pq -114.858935 28380
+getBlock rdvDnMRstZlKA
+addBlock vCyic3 62.166388 71611
+addBlock 8OPu 56.424704 38793
+addBlock 2Mosu6Sab -69.611868 87391
+removeBlock 88Z
+getBlock 6qM9EW
+updateEarliestBlock -31.271684
+addBlock Lmw 71.964732 25716
+updateEarliestBlock -124.465579
+addBlock unEQx3uvqEDuo -46.831697 19951
+removeEarliestBlock
+updateBlock FEY 22.112711
+getEarliestBlock
+updateEarliestBlock -109.889858
+addBlock 7ffxA2 86.663178 45044
+addBlock Wh -11.263069 72365
+getBlock aJ
+updateEarliestBlock -16.035950
+addBlock O -125.298138 51389
+removeEarliestBlock
+addBlock Oe8 100.016119 51870
+removeBlock viBHkf
+addBlock GB 22.946902 80225
+removeEarliestBlock
