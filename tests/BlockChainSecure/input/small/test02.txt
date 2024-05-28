@@ -1,0 +1,36 @@
+20 array
+tryD5y -73.498799 443
+cNcHuEgzZJiZ0 17.089016 323
+snWcv -49.416262 418
+XzhwsB 85.213492 373
+MB5W7MSbrQ0 4.721973 495
+HXSVzDCew6YSz -40.789209 388
+45Ij 212.598774 221
+KGN39BkAron 226.613801 419
+MJT57bq8LSsR -100.795641 476
+kPstn4VKXzqBA -36.471857 275
+XDTHT 54.702334 246
+AdxEB9V9Wp94 -34.533250 237
+OvfVIas8 -160.127903 457
+Ok6ZMnCMUcAT0 -33.442510 189
+owt6qW6qtAm -233.456758 213
+bwnwUgTgJXdjy -144.687562 131
+MhyxHe -14.899007 300
+5KKw14 204.750345 306
+EYikw 37.061161 192
+tnQS -195.152766 162
+removeEarliestBlock
+addBlock 0peb7kCzAZcsF -13.755643 485
+getEarliestBlock
+updateBlock cNcHuEgzZJiZ0 8.276465
+removeBlock KGN39BkAron
+removeBlock kPstn4VKXzqBA
+getEarliestBlock
+getBlock Ok6ZMnCMUcAT0
+removeEarliestBlock
+removeEarliestBlock
+removeBlock lhkPsUGlexw
+updateBlock EYikw -136.991369
+removeBlock PFrrNjpLJBQ
+getEarliestBlock
+getEarliestBlock

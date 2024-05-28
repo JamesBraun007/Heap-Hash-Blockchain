@@ -1,0 +1,57 @@
+14 array
+0HqyDk -125.098101 174
+fOoj3VQL -121.469120 464
+Xt3dmSqDEq6wU -88.667380 488
+5CE0vYI3q 42.937980 115
+62XwQ4klk -113.083115 250
+bCVuII0sB0KT -70.982168 272
+IlFrRj5eHF5e 82.001533 280
+wAyJ 23.993631 478
+9DogIn3hzh 18.666435 163
+PyW 68.449403 131
+LB 21.425434 319
+Fs -64.257398 167
+pBMnWx9w0d6 157.905673 186
+M 51.783355 407
+updateBlock Fs 56.741056
+getBlock 9DogIn3hzh
+removeEarliestBlock
+removeEarliestBlock
+removeBlock 9DogIn3hzh
+updateBlock Fs -203.290631
+addBlock vfzUV7krh 1.488689 432
+getBlock PyW
+getBlock pBMnWx9w0d6
+removeBlock IlFrRj5eHF5e
+addBlock 0v0VrH8Fc -223.529652 271
+removeEarliestBlock
+updateBlock pBMnWx9w0d6 -21.138835
+getEarliestBlock
+removeBlock 4
+updateBlock bCVuII0sB0KT -104.641427
+getBlock vfzUV7krh
+addBlock 3yyt7Mr -3.553260 472
+getBlock Fs
+updateBlock 62XwQ4klk 120.200580
+updateEarliestBlock 122.492286
+removeBlock bCVuII0sB0KT
+getBlock PyW
+removeBlock 62XwQ4klk
+removeBlock Xt3dmSqDEq6wU
+getEarliestBlock
+addBlock 9TDNQO 0.601635 380
+getEarliestBlock
+removeBlock vfzUV7krh
+removeBlock Fs
+getBlock 0HqyDk
+updateEarliestBlock 41.559617
+getBlock S6IqUEQDj4Ts
+getEarliestBlock
+addBlock PM 52.621681 376
+addBlock qtjxM -151.186813 194
+addBlock 3 18.743623 59
+getEarliestBlock
+getEarliestBlock
+getEarliestBlock
+updateBlock 5CE0vYI3q 23.601277
+getEarliestBlock

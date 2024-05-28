@@ -1,0 +1,13 @@
+21 empty
+addBlock rS2PU84J8E 45.290835 478
+addBlock MyXLzQ 85.044792 158
+updateBlock MyXLzQ 22.786342
+getBlock MyXLzQ
+addBlock hvs1T 105.959138 467
+getEarliestBlock
+getEarliestBlock
+getBlock eotBx
+addBlock Yu -51.662591 477
+getEarliestBlock
+updateEarliestBlock -172.503869
+removeEarliestBlock
